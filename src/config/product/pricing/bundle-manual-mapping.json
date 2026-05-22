@@ -1,0 +1,353 @@
+[
+  {
+    "bundleKey": "MLS-CORE",
+    "label": "Primeira Liga (Level 1, Portugal)",
+    "wyscoutId": "707",
+    "competition": "Primeira Liga",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "MLS-CORE",
+    "label": "Chance Liga (Level 1, Czech Republic)",
+    "wyscoutId": "323",
+    "competition": "Chance Liga",
+    "leagueKey": "chance_liga",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "MLS-CORE",
+    "label": "Liga Pro (Level 1, Ecuador)",
+    "wyscoutId": "339",
+    "competition": "Liga Pro",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "MLS-DOM",
+    "label": "Primera Divisi\u00f3n (Costa Rica)",
+    "wyscoutId": "301",
+    "competition": "Primera Divisi\u00f3n",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "MLS-DOM",
+    "label": "Liga Nacional (Guatemala)",
+    "wyscoutId": "451",
+    "competition": "Liga Nacional",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "USL-CPL",
+    "label": "Premier Division (Level 1, Ireland)",
+    "wyscoutId": "499",
+    "competition": "Premier Division",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "USL-CPL",
+    "label": "First Division (Level 2, Ireland)",
+    "wyscoutId": "503",
+    "competition": "First Division",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "USL-CPL",
+    "label": "Primera Divisi\u00f3n (Costa Rica)",
+    "wyscoutId": "301",
+    "competition": "Primera Divisi\u00f3n",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "USL-CPL",
+    "label": "Liga Nacional (Guatemala)",
+    "wyscoutId": "451",
+    "competition": "Liga Nacional",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "LMX-MLS",
+    "label": "Primeira Liga (Level 1, Portugal)",
+    "wyscoutId": "707",
+    "competition": "Primeira Liga",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "LMX-MLS",
+    "label": "Liga Pro (Level 1, Ecuador)",
+    "wyscoutId": "339",
+    "competition": "Liga Pro",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-SELL",
+    "label": "Primeira Liga (Level 1, Portugal)",
+    "wyscoutId": "707",
+    "competition": "Primeira Liga",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-SELL",
+    "label": "Chance Liga (Level 1, Czech Republic)",
+    "wyscoutId": "323",
+    "competition": "Chance Liga",
+    "leagueKey": "chance_liga",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "EU-2ND",
+    "label": "First Division (Level 2, Ireland)",
+    "wyscoutId": "503",
+    "competition": "First Division",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "Primeira Liga (Level 1, Portugal)",
+    "wyscoutId": "707",
+    "competition": "Primeira Liga",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "First League (North Macedonia)",
+    "wyscoutId": "591",
+    "competition": "First League",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "Chance Liga (Level 1, Czech Republic)",
+    "wyscoutId": "323",
+    "competition": "Chance Liga",
+    "leagueKey": "chance_liga",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "Veikkausliiga (Level 1, Finland)",
+    "wyscoutId": "400",
+    "competition": "Veikkausliiga",
+    "leagueKey": "veikkausliiga",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "UEFA European Championship Qualifiers",
+    "wyscoutId": "102",
+    "competition": "UEFA European Championship",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "Premier Division (Level 1, Ireland)",
+    "wyscoutId": "499",
+    "competition": "Premier Division",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "EU-VALUE",
+    "label": "First Division (Level 2, Ireland)",
+    "wyscoutId": "503",
+    "competition": "First Division",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "LATAM-UP",
+    "label": "Liga Pro (Level 1, Ecuador)",
+    "wyscoutId": "339",
+    "competition": "Liga Pro",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CONCACAF-VAL",
+    "label": "Primera Divisi\u00f3n (Costa Rica)",
+    "wyscoutId": "301",
+    "competition": "Primera Divisi\u00f3n",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CONCACAF-VAL",
+    "label": "Liga Nacional (Guatemala)",
+    "wyscoutId": "451",
+    "competition": "Liga Nacional",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "APAC-PEER",
+    "label": "1st Division (Level 2, Hong Kong)",
+    "wyscoutId": "43439",
+    "competition": "1st Division",
+    "leagueKey": "1st_division_43439",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "MENA-EMERGING",
+    "label": "Premier League (Bangladesh)",
+    "wyscoutId": "182",
+    "competition": "Premier League",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "WOMEN-PRO",
+    "label": "Northern Super League (Canada)",
+    "wyscoutId": "43767",
+    "competition": "Northern Super League",
+    "leagueKey": "northern_super_league",
+    "mappingSource": "manual",
+    "note": "Mapped manually from backend typo/variant."
+  },
+  {
+    "bundleKey": "WOMEN-PRO",
+    "label": "Women's Premier League (Ireland)",
+    "wyscoutId": "504",
+    "competition": "Women's Premier League",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "WOMEN-PRO",
+    "label": "FAI Women's Cup (Ireland)",
+    "wyscoutId": "43276",
+    "competition": "FAI Women's Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "WOMEN-PRO",
+    "label": "Women's Presidents Cup (Ireland)",
+    "wyscoutId": "43465",
+    "competition": "Women's Presidents Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "WOMEN-PRO",
+    "label": "Play-offs 1/2 (Ireland)",
+    "wyscoutId": "501",
+    "competition": "Play-offs 1/2",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "YOUTH-COLLEGE",
+    "label": "U19 League (Slovakia)",
+    "wyscoutId": "1530",
+    "competition": "U19 League",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "UEFA European Championship Qualifiers",
+    "wyscoutId": "102",
+    "competition": "UEFA European Championship",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "Play-offs 2/3 (Germany)",
+    "wyscoutId": "434",
+    "competition": "Play-offs 2/3",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "Play-offs 1/2 (Andorra)",
+    "wyscoutId": "135",
+    "competition": "Play-offs 1/2",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "FAI President's Cup (Ireland)",
+    "wyscoutId": "1563",
+    "competition": "FAI President's Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "FAI Cup (Ireland)",
+    "wyscoutId": "498",
+    "competition": "FAI Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "Super Cup (Armenia)",
+    "wyscoutId": "150",
+    "competition": "Super Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  },
+  {
+    "bundleKey": "CUP-PO",
+    "label": "Cup (Armenia)",
+    "wyscoutId": "147",
+    "competition": "Cup",
+    "leagueKey": null,
+    "mappingSource": "unresolved",
+    "note": "No backend league key found; preserved as unresolved bundle coverage."
+  }
+]

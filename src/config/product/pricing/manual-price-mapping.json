@@ -1,0 +1,590 @@
+{
+  "mapped": [
+    {
+      "workbookLabel": "Chance Liga (Level 1, Czech Republic)",
+      "backendKey": "chance_liga",
+      "backendLabel": "Chance Liga (Level 1, Czech Repbulic)"
+    },
+    {
+      "workbookLabel": "IDBank Premier League (Armenia)",
+      "backendKey": "idbank_premier_league",
+      "backendLabel": "IDBank Premier League (Level 1, Armenia)"
+    },
+    {
+      "workbookLabel": "Veikkausliiga (Level 1, Finland)",
+      "backendKey": "veikkausliiga",
+      "backendLabel": "Veikkausliiga (Level 1, Findland)"
+    },
+    {
+      "workbookLabel": "1st Division (Level 2, Hong Kong)",
+      "backendKey": "1st_division_43439",
+      "backendLabel": "1st Division (Hong Kong)"
+    },
+    {
+      "workbookLabel": "Northern Super League (Canada)",
+      "backendKey": "northern_super_league",
+      "backendLabel": "Norther Super League (Canada)"
+    }
+  ],
+  "unresolved": [
+    {
+      "workbookGroupKey": "Youth",
+      "workbookKey": "1530",
+      "label": "U19 League (Slovakia)",
+      "workbookPriceCents": 2900,
+      "intelligencePackPriceCents": 5900
+    },
+    {
+      "workbookGroupKey": "Southern Europe",
+      "workbookKey": "707",
+      "label": "Primeira Liga (Level 1, Portugal)",
+      "workbookPriceCents": 9900,
+      "intelligencePackPriceCents": 19900
+    },
+    {
+      "workbookGroupKey": "Southern Europe",
+      "workbookKey": "591",
+      "label": "First League (North Macedonia)",
+      "workbookPriceCents": 3900,
+      "intelligencePackPriceCents": 7900
+    },
+    {
+      "workbookGroupKey": "Western Europe",
+      "workbookKey": "102",
+      "label": "UEFA European Championship Qualifiers",
+      "workbookPriceCents": 7900,
+      "intelligencePackPriceCents": 14900
+    },
+    {
+      "workbookGroupKey": "Western Europe",
+      "workbookKey": "499",
+      "label": "Premier Division (Level 1, Ireland)",
+      "workbookPriceCents": 5900,
+      "intelligencePackPriceCents": 11900
+    },
+    {
+      "workbookGroupKey": "Western Europe",
+      "workbookKey": "503",
+      "label": "First Division (Level 2, Ireland)",
+      "workbookPriceCents": 3900,
+      "intelligencePackPriceCents": 7900
+    },
+    {
+      "workbookGroupKey": "South America",
+      "workbookKey": "339",
+      "label": "Liga Pro (Level 1, Ecuador)",
+      "workbookPriceCents": 7900,
+      "intelligencePackPriceCents": 14900
+    },
+    {
+      "workbookGroupKey": "Concacaf",
+      "workbookKey": "301",
+      "label": "Primera División (Costa Rica)",
+      "workbookPriceCents": 6900,
+      "intelligencePackPriceCents": 12900
+    },
+    {
+      "workbookGroupKey": "Concacaf",
+      "workbookKey": "451",
+      "label": "Liga Nacional (Guatemala)",
+      "workbookPriceCents": 4900,
+      "intelligencePackPriceCents": 9900
+    },
+    {
+      "workbookGroupKey": "Middle East, Africa, India",
+      "workbookKey": "182",
+      "label": "Premier League (Bangladesh)",
+      "workbookPriceCents": 3900,
+      "intelligencePackPriceCents": 7900
+    },
+    {
+      "workbookGroupKey": "Women's",
+      "workbookKey": "504",
+      "label": "Women's Premier League (Ireland)",
+      "workbookPriceCents": 3900,
+      "intelligencePackPriceCents": 7900
+    },
+    {
+      "workbookGroupKey": "Women's",
+      "workbookKey": "43276",
+      "label": "FAI Women's Cup (Ireland)",
+      "workbookPriceCents": 1900,
+      "intelligencePackPriceCents": 3900
+    },
+    {
+      "workbookGroupKey": "Women's",
+      "workbookKey": "43465",
+      "label": "Women's Presidents Cup (Ireland)",
+      "workbookPriceCents": 1900,
+      "intelligencePackPriceCents": 3900
+    },
+    {
+      "workbookGroupKey": "Women's",
+      "workbookKey": "501",
+      "label": "Play-offs 1/2 (Ireland)",
+      "workbookPriceCents": 1900,
+      "intelligencePackPriceCents": 3900
+    }
+  ],
+  "duplicateBackendKeysIgnored": [
+    {
+      "backendKey": "idbank_premier_league",
+      "backendLabel": "IDBank Premier League (Level 1, Armenia)",
+      "kept": {
+        "groupKey": "Eastern Europe",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "Eastern Europe",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "IDBank Premier League (Level 1, Armenia)"
+    },
+    {
+      "backendKey": "uefa_u17_championship_women",
+      "backendLabel": "UEFA U17 Championship Women",
+      "kept": {
+        "groupKey": "Women's",
+        "products": {
+          "workbook": {
+            "priceCents": 5900
+          },
+          "intelligencePack": {
+            "priceCents": 11900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "Women's",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "UEFA U17 Championship Women"
+    },
+    {
+      "backendKey": "1st_division_43439",
+      "backendLabel": "1st Division (Hong Kong)",
+      "kept": {
+        "groupKey": "East Asia & Oceania",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "Women's",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "1st Division (Hong Kong)"
+    },
+    {
+      "backendKey": "ncaa_d1_coastal_athletic_association",
+      "backendLabel": "NCAA D1 Coastal Athletic Association",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 5900
+          },
+          "intelligencePack": {
+            "priceCents": 11900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 5900
+          },
+          "intelligencePack": {
+            "priceCents": 11900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D1 Coastal Athletic Association"
+    },
+    {
+      "backendKey": "ncaa_d1_non_conference_matches",
+      "backendLabel": "NCAA D1 Non-conference matches",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 7900
+          },
+          "intelligencePack": {
+            "priceCents": 14900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 7900
+          },
+          "intelligencePack": {
+            "priceCents": 14900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D1 Non-conference matches"
+    },
+    {
+      "backendKey": "ncaa_d2_sunshine_state_conference",
+      "backendLabel": "NCAA D2 Sunshine State Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 4900
+          },
+          "intelligencePack": {
+            "priceCents": 9900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 4900
+          },
+          "intelligencePack": {
+            "priceCents": 9900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Sunshine State Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_south_atlantic_conference",
+      "backendLabel": "NCAA D2 South Atlantic Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 South Atlantic Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_northeast_10_conference",
+      "backendLabel": "NCAA D2 Northeast-10 Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Northeast-10 Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_peach_belt_conference",
+      "backendLabel": "NCAA D2 Peach Belt Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Peach Belt Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_great_american_conference",
+      "backendLabel": "NCAA D2 Great American Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Great American Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_mountain_east_conference",
+      "backendLabel": "NCAA D2 Mountain East Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Mountain East Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_pacific_west_conference",
+      "backendLabel": "NCAA D2 Pacific West Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Pacific West Conference"
+    },
+    {
+      "backendKey": "ncaa_d2_non_conference_matches",
+      "backendLabel": "NCAA D2 Non-conference matches",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D2 Non-conference matches"
+    },
+    {
+      "backendKey": "ncaa_d3_university_athletic_association",
+      "backendLabel": "NCAA D3 University Athletic Association",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 3900
+          },
+          "intelligencePack": {
+            "priceCents": 7900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D3 University Athletic Association"
+    },
+    {
+      "backendKey": "ncaa_d3_centennial_conference",
+      "backendLabel": "NCAA D3 Centennial Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D3 Centennial Conference"
+    },
+    {
+      "backendKey": "ncaa_d3_north_atlantic_conference",
+      "backendLabel": "NCAA D3 North Atlantic Conference",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D3 North Atlantic Conference"
+    },
+    {
+      "backendKey": "ncaa_d3_non_conference_matches",
+      "backendLabel": "NCAA D3 Non-conference matches",
+      "kept": {
+        "groupKey": "NCAA (Men)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "ignored": {
+        "groupKey": "NCAA (Women)",
+        "products": {
+          "workbook": {
+            "priceCents": 2900
+          },
+          "intelligencePack": {
+            "priceCents": 5900
+          }
+        }
+      },
+      "workbookLabel": "NCAA D3 Non-conference matches"
+    }
+  ]
+}

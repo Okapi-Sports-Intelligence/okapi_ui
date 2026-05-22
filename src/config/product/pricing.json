@@ -1,0 +1,8862 @@
+{
+  "1_deild": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "1_division": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "1_division_544": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_division_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_hnl_juniori": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_kreisklasse": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "1_liga_classic": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "1_liga_promotion": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_liga_u19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1_lyga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "1_snl": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "1a_divis_o_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "1a_divisi": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "1st_division": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "1st_division_43439": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "2_bundesliga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "2_division": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "2_division_43498": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "2_division_667": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "2_liga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "2_liga_770": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "2_snl": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "2nd_division": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "3_division": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "3_division_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "3_liga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "a_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "a_league_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "a_lecoq_premium_liiga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "a_lyga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "abissnet_superiore": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "afc_asian_cup": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "afc_champions_league_elite": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "afc_champions_league_two": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "afc_u17_women_s_asian_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "afc_u19_championship": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "afc_u20_asian_cup_qualification": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "afc_u20_women_s_asian_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "afc_u23_asian_cup_qualification": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "afc_women_s_champions_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "afc_world_cup_qualifiers": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "alagoano_play_offs": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "algarve_u19_tournament": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "allsvenskan": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "allsvenskan_u16": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "allsvenskan_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "allsvenskan_u19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "asaba_super_cup": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "baiano_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "barclays_women_s_super_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "besta_deild_karla": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "bican_cup_u15": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "birinci_dasta": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "botola_pro": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "brasileiro_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "bundesliga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "bundesliga_426": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "campionato_primavera_1": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "canadian_premier_league": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "capital_territory_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "carioca_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "catarinense_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "cbf_brasileiro_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "cearense_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "cee_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "challenge_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "challenger_pro_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "championship": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "championship_744": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "chance_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "chance_national_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "china_league_one": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "china_league_two": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "concacaf_central_american_cup": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "concacaf_champions_cup": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "concacaf_gold_cup": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "concacaf_gold_cup_qualification": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "concacaf_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "concacaf_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "concacaf_w_champions_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "concacaf_w_gold_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "concacaf_women_s_u17": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "concacaf_women_s_u20": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "conmebol_copa_america": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "conmebol_copa_america_femenina": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "conmebol_libertadores_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "conmebol_pre_olympic_tournament": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "conmebol_sudamericana": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "conmebol_u15": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "conmebol_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "conmebol_u17_femenino": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "conmebol_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "conmebol_u20_femenino": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "copa_do_brasil_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "copa_do_brasil_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "copa_libertadores": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "copa_libertadores_femenina": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "copa_proyecci_n": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "coppa_italia_primavera": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "cotif_tournament": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "creative_championship": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "csl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "cupa_de_tineret": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "cupa_elitelor_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "cupa_rom_niei_feminin": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "damallsvenskan": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "division_1": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "division_1_862": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "division_2": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "druha_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "eerste_divisie": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ekstraklasa": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "elite_1_under_18": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "eliteserien": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "elitettan": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "emir_of_kano_cup": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "eredivisie": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "esiliiga_a": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ettan": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "fa_women_s_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "fifa_u17_women_s_world_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "fifa_u17_world_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "fifa_u20_women_s_world_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "fifa_women_s_wc_qualification_ofc": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "first_league": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "first_league_907": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "first_nl": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "football_federations_cup_u16": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "frauen_bundesliga": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "freedom_qj_league_u16": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "freedom_qj_league_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "freedom_qj_league_u18": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ga_cho_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "goiano_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "hudl_independent_schools_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "i_league": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "i_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "idbank_premier_league": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ii_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "indian_super_league": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "j1_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "j2_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "j3_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "k_league_1": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "k_league_2": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "kansallinen_liiga": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "la_liga": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "league_one": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "league_one_752": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "league_two": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "league_two_757": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "leagues_cup": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "lfpb": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "liga_1": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "liga_3": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "liga_cupen_u16": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "liga_cupen_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "liga_cupen_u19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "liga_de_expansi_n_mx": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "liga_elitelor_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "liga_f": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "liga_ii": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "liga_leumit": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "liga_mayor": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "liga_mx": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "liga_nacional": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "liga_pro_serie_b": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "liga_profesional_de_f_tbol": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "liga_revela_o_sub_23": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "liga_tineret": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ligat_ha_al": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ligue_1": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "ligue_2": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "lpf": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "meistaradeildin": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "mineiro_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "mls": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "mls_next_pro": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "mlsz_u19_orsz_gos_kiemelt": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "n_youth_league_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "naia_championship": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_championship_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_crossroads_league_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_mid_south_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_non_conference_matches": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_non_conference_matches_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_the_sun_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "naia_the_sun_conference_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "nasjonal_regional_g19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "national_1": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "national_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "national_league_43435": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "national_league_n_s": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "national_women_s_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "nb_i": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "nb_ii": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_america_east": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_america_east_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_american_athletic": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "ncaa_d1_american_athletic_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_asun": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_asun_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_atlantic_10": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "ncaa_d1_atlantic_10_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_atlantic_coast": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_atlantic_coast_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "ncaa_d1_big_12_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_big_east": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_big_east_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_big_sky_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_big_south": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_big_south_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_big_ten": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_big_ten_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "ncaa_d1_big_west": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "ncaa_d1_big_west_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_coastal_athletic_association": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "ncaa_d1_college_cup": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_college_cup_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_conference_usa": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "ncaa_d1_conference_usa_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "ncaa_d1_horizon_league": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_horizon_league_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_ivy_league": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_ivy_league_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_mid_american": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_mid_american_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "ncaa_d1_missouri_valley": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "ncaa_d1_missouri_valley_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "ncaa_d1_mountain_west_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_non_conference_matches": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_northeast": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_northeast_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_ohio_valley": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_ohio_valley_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_pacific_12": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_pacific_12_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_patriot_league": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_patriot_league_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "ncaa_d1_sec_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "ncaa_d1_southern": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_southern_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_southland_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_southwestern_athletic_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d1_summit_league": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_summit_league_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_sun_belt": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_sun_belt_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_west_coast": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "ncaa_d1_west_coast_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "ncaa_d1_western_athletic": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d1_western_athletic_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d2_championship": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_championship_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_conference_carolinas": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_conference_carolinas_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_great_american_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_lone_star_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d2_lone_star_conference_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d2_mountain_east_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_non_conference_matches": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d2_northeast_10_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d2_pacific_west_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d2_peach_belt_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d2_south_atlantic_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ncaa_d2_sunshine_state_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ncaa_d3_centennial_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d3_championship": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d3_empire_8_w": {
+    "groupKey": "NCAA (Women)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d3_non_conference_matches": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d3_north_atlantic_conference": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ncaa_d3_university_athletic_association": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "new_south_wales_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "new_south_wales_npl_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "nik_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "njcaa_non_conference_matches": {
+    "groupKey": "NCAA (Men)",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "non_league_div_one": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "non_league_premier": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "northern_super_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "nwsl": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "nwsl_challenge_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "oberndorf_tournament_u19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "obos_ligaen": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "obos_nasjonal_g17_1st_division": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "obos_nasjonal_g17_2nd_division": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ofc_champions_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "ofc_nations_cup": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "ofc_world_cup_qualifiers": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "p17_sm_karsintasarja": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "paraense": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "paranaense_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "paulista_a1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "paulista_a2": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "paulista_a3": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "paulista_a4": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "paulista_u20": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "paulista_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "pernambucano_1": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "persha_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "pfl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "premier_league": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "premier_league_2": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "premier_league_364": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "premier_league_459": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "premier_league_531": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "premier_league_546": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "premier_league_729": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "premier_league_767": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "premier_league_division_one_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "premier_league_international_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "premiership": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "premiership_750": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "premiership_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "premyer_liqa": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "prim_b_metro": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "primera_b": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "primera_divisi_n": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "primera_divisi_n_688": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "primera_divisi_n_879": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "primera_divisi_n_886": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "primera_divisi_n_amateur": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "primera_division": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "primera_division_652": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "primera_division_rfef": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "primera_nacional": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "pro_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "pro_league_541": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "pro_league_741": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "pro_league_u21": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "professional_development_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "prva_hnl_kadeti_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "prva_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "psl": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "queensland_fqpl_1_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "queensland_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "queensland_npl_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "queensland_premier_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "regionalliga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "russian_super_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "rvalsdeild_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "s_o_paulo_youth_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "second_division": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "second_league": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "second_nl": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "segunda_divisi_n": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "segunda_divisi_n_880": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "segunda_division_rfef": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "segunda_liga": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "sergipano": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "serie_a": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "serie_a_524": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "serie_b": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "serie_b_527": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "serie_c": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "serie_c_520": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "serie_d": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "south_australia_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "stoiximan_super_league": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "sul_matogrossense": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "super_cup_primavera": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "super_cup_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "super_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "super_league_2": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "super_league_602": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "super_league_830": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "super_league_883": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "super_liga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "super_liga_905": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "supercup_liga_de_tineret": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "supercup_liga_elitelor_u17": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "superettan": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "superettan_u19": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "superleague": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "superliga": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "superliga_719": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 6900
+      },
+      "intelligencePack": {
+        "priceCents": 12900
+      },
+      "teamAnalysis": {
+        "priceCents": 39900
+      },
+      "fullTeamReport": {
+        "priceCents": 299900
+      },
+      "playerScoutingReport": {
+        "priceCents": 349900
+      }
+    }
+  },
+  "superliga_feminina": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "svenska_cupen_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "swpl_1": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "swpl_2": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "swpl_sky_sports_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "tercera_division_rfef": {
+    "groupKey": "Southern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "thai_league": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "thai_league_2": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "thames_ironworks_cup_u13": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "the_creative_championship_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "third_division": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "toppserien": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "torneo_federal_a": {
+    "groupKey": "South America",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "torneo_proyecci_n": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "tournoi_europ_en_u21": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "tweede_divisie": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "u15_ligaen": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "u17_bundesliga_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "u17_division": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "u17_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "u17_league_43605": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "u17_ligaen": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "u18_premier_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "u18_professional_development_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "u19_bundesliga_cup": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "u19_division": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "u19_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "u19_league_1317": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "u19_ligaen": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "u20_elite_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "uae_pro_league": {
+    "groupKey": "Middle East, Africa, India",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "uefa_champions_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "uefa_development_tournament_u16": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "uefa_europa_conference_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "uefa_europa_league": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "uefa_european_championship": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "uefa_u17_championship": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "uefa_u17_championship_qualification": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "uefa_u17_championship_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "uefa_u19_championship": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "uefa_u19_championship_qualification": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "uefa_u19_championship_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "uefa_u21_championship": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "uefa_u21_championship_qualification": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "uefa_women_s_champions_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "uefa_women_s_championship": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 14900
+      },
+      "intelligencePack": {
+        "priceCents": 29900
+      },
+      "teamAnalysis": {
+        "priceCents": 79900
+      },
+      "fullTeamReport": {
+        "priceCents": 649900
+      },
+      "playerScoutingReport": {
+        "priceCents": 999900
+      }
+    }
+  },
+  "uefa_world_cup_qualifiers": {
+    "groupKey": "Western Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "uefa_youth_league": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "usl_championship": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 12900
+      },
+      "intelligencePack": {
+        "priceCents": 24900
+      },
+      "teamAnalysis": {
+        "priceCents": 69900
+      },
+      "fullTeamReport": {
+        "priceCents": 549900
+      },
+      "playerScoutingReport": {
+        "priceCents": 749900
+      }
+    }
+  },
+  "usl_league_1": {
+    "groupKey": "Concacaf",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "usl_super_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 9900
+      },
+      "intelligencePack": {
+        "priceCents": 19900
+      },
+      "teamAnalysis": {
+        "priceCents": 59900
+      },
+      "fullTeamReport": {
+        "priceCents": 449900
+      },
+      "playerScoutingReport": {
+        "priceCents": 599900
+      }
+    }
+  },
+  "vbet_league": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "veikkausliiga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 5900
+      },
+      "intelligencePack": {
+        "priceCents": 11900
+      },
+      "teamAnalysis": {
+        "priceCents": 34900
+      },
+      "fullTeamReport": {
+        "priceCents": 249900
+      },
+      "playerScoutingReport": {
+        "priceCents": 299900
+      }
+    }
+  },
+  "victoria_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 4900
+      },
+      "intelligencePack": {
+        "priceCents": 9900
+      },
+      "teamAnalysis": {
+        "priceCents": 29900
+      },
+      "fullTeamReport": {
+        "priceCents": 199900
+      },
+      "playerScoutingReport": {
+        "priceCents": 249900
+      }
+    }
+  },
+  "victoria_npl_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "virsliga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "we_league": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 7900
+      },
+      "intelligencePack": {
+        "priceCents": 14900
+      },
+      "teamAnalysis": {
+        "priceCents": 44900
+      },
+      "fullTeamReport": {
+        "priceCents": 349900
+      },
+      "playerScoutingReport": {
+        "priceCents": 449900
+      }
+    }
+  },
+  "we_league_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "western_australia_npl": {
+    "groupKey": "East Asia & Oceania",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "western_australia_npl_women": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "women_s_league_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "women_s_play_offs_1_2": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "women_s_play_offs_1_2_43658": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "women_s_premiership_league_cup": {
+    "groupKey": "Women's",
+    "products": {
+      "workbook": {
+        "priceCents": 1900
+      },
+      "intelligencePack": {
+        "priceCents": 3900
+      },
+      "teamAnalysis": {
+        "priceCents": 14900
+      },
+      "fullTeamReport": {
+        "priceCents": 99900
+      },
+      "playerScoutingReport": {
+        "priceCents": 99900
+      }
+    }
+  },
+  "ykk_nen": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 2900
+      },
+      "intelligencePack": {
+        "priceCents": 5900
+      },
+      "teamAnalysis": {
+        "priceCents": 19900
+      },
+      "fullTeamReport": {
+        "priceCents": 124900
+      },
+      "playerScoutingReport": {
+        "priceCents": 149900
+      }
+    }
+  },
+  "ykk_sliiga": {
+    "groupKey": "Eastern Europe",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  },
+  "youth_alliance": {
+    "groupKey": "Youth",
+    "products": {
+      "workbook": {
+        "priceCents": 3900
+      },
+      "intelligencePack": {
+        "priceCents": 7900
+      },
+      "teamAnalysis": {
+        "priceCents": 24900
+      },
+      "fullTeamReport": {
+        "priceCents": 149900
+      },
+      "playerScoutingReport": {
+        "priceCents": 199900
+      }
+    }
+  }
+}

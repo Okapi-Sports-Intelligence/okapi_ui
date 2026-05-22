@@ -1,0 +1,2462 @@
+[
+  {
+    "key": "1_lyga",
+    "label": "1 Lyga (Level 2, Lithuania)"
+  },
+  {
+    "key": "1_deild",
+    "label": "1. Deild (Level 2, Iceland)"
+  },
+  {
+    "key": "1_division",
+    "label": "1. Division (Cyprus)"
+  },
+  {
+    "key": "1_division_544",
+    "label": "1. Division (Level 2, Kazakhstan)"
+  },
+  {
+    "key": "1_division_women",
+    "label": "1. Division Women (Level 2, Norway)"
+  },
+  {
+    "key": "1_hnl_juniori",
+    "label": "1. HNL Juniori (Croatia U19)"
+  },
+  {
+    "key": "1_kreisklasse",
+    "label": "1. Kreisklasse (State Leagues, Germany)"
+  },
+  {
+    "key": "1_liga",
+    "label": "1. Liga (Level 2, Latvia)"
+  },
+  {
+    "key": "1_liga_classic",
+    "label": "1. Liga Classic (Level 4, Switzerland)"
+  },
+  {
+    "key": "1_liga_promotion",
+    "label": "1. Liga Promotion (Level 3, Switzerland)"
+  },
+  {
+    "key": "1_liga_u19",
+    "label": "1. Liga U19 (Czech Republic)"
+  },
+  {
+    "key": "1_snl",
+    "label": "1. SNL (Slovenia)"
+  },
+  {
+    "key": "1a_divisi",
+    "label": "1a Divisió (Andorra)"
+  },
+  {
+    "key": "1a_divis_o_women",
+    "label": "1a Divisão Women (Portugal)"
+  },
+  {
+    "key": "1st_division_43439",
+    "label": "1st Division (Hong Kong)"
+  },
+  {
+    "key": "1st_division",
+    "label": "1st Division (Level 2, Denmark)"
+  },
+  {
+    "key": "2_bundesliga",
+    "label": "2. Bundesliga (Germany)"
+  },
+  {
+    "key": "2_division",
+    "label": "2. Division (Cyprus)"
+  },
+  {
+    "key": "2_division_43498",
+    "label": "2. Division (Level 3, Kazakhstan)"
+  },
+  {
+    "key": "2_division_667",
+    "label": "2. Division (Level 3, Norway)"
+  },
+  {
+    "key": "2_liga",
+    "label": "2. Liga (Level 2, Austria)"
+  },
+  {
+    "key": "2_snl",
+    "label": "2. SNL (Slovenia)"
+  },
+  {
+    "key": "2_liga_770",
+    "label": "2. liga (Level 2, Slovakia)"
+  },
+  {
+    "key": "2nd_division",
+    "label": "2nd Division (Level 3, Denmark)"
+  },
+  {
+    "key": "3_division",
+    "label": "3. Division (Level 4, Denmark)"
+  },
+  {
+    "key": "3_division_women",
+    "label": "3. Division Women (Level 3, Norway)"
+  },
+  {
+    "key": "3_liga",
+    "label": "3. Liga (Level 3, Germany)"
+  },
+  {
+    "key": "a_lyga",
+    "label": "A Lyga (Level 1, Lithuania)"
+  },
+  {
+    "key": "a_league",
+    "label": "A-League (Australia)"
+  },
+  {
+    "key": "a_league_women",
+    "label": "A-League Women (Australia)"
+  },
+  {
+    "key": "a_lecoq_premium_liiga",
+    "label": "A.LeCoq Premium Liiga (Level 1, Estonia)"
+  },
+  {
+    "key": "afc_asian_cup",
+    "label": "AFC Asian Cup"
+  },
+  {
+    "key": "afc_champions_league_elite",
+    "label": "AFC Champions League Elite"
+  },
+  {
+    "key": "afc_champions_league_two",
+    "label": "AFC Champions League Two"
+  },
+  {
+    "key": "afc_u17_asian_cup",
+    "label": "AFC U17 Asian Cup"
+  },
+  {
+    "key": "afc_u17_women_s_asian_cup",
+    "label": "AFC U17 Women's Asian Cup"
+  },
+  {
+    "key": "afc_u19_championship",
+    "label": "AFC U19 Championship"
+  },
+  {
+    "key": "afc_u20_asian_cup",
+    "label": "AFC U20 Asian Cup"
+  },
+  {
+    "key": "afc_u20_asian_cup_qualification",
+    "label": "AFC U20 Asian Cup Qualification"
+  },
+  {
+    "key": "afc_u20_women_s_asian_cup",
+    "label": "AFC U20 Women's Asian Cup"
+  },
+  {
+    "key": "afc_u23_asian_cup",
+    "label": "AFC U23 Asian Cup"
+  },
+  {
+    "key": "afc_u23_asian_cup_qualification",
+    "label": "AFC U23 Asian Cup Qualification"
+  },
+  {
+    "key": "afc_women_s_champions_league",
+    "label": "AFC Women's Champions League"
+  },
+  {
+    "key": "afc_world_cup_qualifiers",
+    "label": "AFC World Cup Qualifiers"
+  },
+  {
+    "key": "aiff_super_cup",
+    "label": "AIFF Super Cup (India)"
+  },
+  {
+    "key": "abissnet_superiore",
+    "label": "Abissnet Superiore (Albania)"
+  },
+  {
+    "key": "alagoano_play_offs",
+    "label": "Alagoano Play-Offs (State League, Alagoas)"
+  },
+  {
+    "key": "algarve_u19_tournament",
+    "label": "Algarve U19 Tournament"
+  },
+  {
+    "key": "allsvenskan",
+    "label": "Allsvenskan (Level 1, Sweden)"
+  },
+  {
+    "key": "allsvenskan_u16",
+    "label": "Allsvenskan U16 (Sweden)"
+  },
+  {
+    "key": "allsvenskan_u17",
+    "label": "Allsvenskan U17 (Sweden)"
+  },
+  {
+    "key": "allsvenskan_u19",
+    "label": "Allsvenskan U19 (Sweden)"
+  },
+  {
+    "key": "asaba_super_cup",
+    "label": "Asaba Super Cup (Nigeria)"
+  },
+  {
+    "key": "australia_cup",
+    "label": "Australia Cup"
+  },
+  {
+    "key": "baiano_1",
+    "label": "Baiano 1 (State League, Bahia)"
+  },
+  {
+    "key": "barclays_women_s_super_league",
+    "label": "Barclays Women's Super League (England)"
+  },
+  {
+    "key": "besta_deild_karla",
+    "label": "Besta-deild karla (Level 1, Iceland)"
+  },
+  {
+    "key": "betsson_greek_cup",
+    "label": "Betsson Greek Cup (Greece)"
+  },
+  {
+    "key": "bican_cup_u15",
+    "label": "Bican Cup U15"
+  },
+  {
+    "key": "birinci_dasta",
+    "label": "Birinci Dasta (Level 2, Azerbaijan)"
+  },
+  {
+    "key": "botola_pro",
+    "label": "Botola Pro (Morocco)"
+  },
+  {
+    "key": "brasileiro_u17",
+    "label": "Brasileiro U17 (Brazil)"
+  },
+  {
+    "key": "bundesliga",
+    "label": "Bundesliga (Austria)"
+  },
+  {
+    "key": "bundesliga_426",
+    "label": "Bundesliga (Germany)"
+  },
+  {
+    "key": "cbf_brasileiro_u20",
+    "label": "CBF Brasileiro U20 (Brazil)"
+  },
+  {
+    "key": "cee_cup",
+    "label": "CEE Cup (U19)"
+  },
+  {
+    "key": "concacaf_central_american_cup",
+    "label": "CONCACAF Central American Cup"
+  },
+  {
+    "key": "concacaf_champions_cup",
+    "label": "CONCACAF Champions Cup"
+  },
+  {
+    "key": "concacaf_gold_cup",
+    "label": "CONCACAF Gold Cup"
+  },
+  {
+    "key": "concacaf_gold_cup_qualification",
+    "label": "CONCACAF Gold Cup Qualification"
+  },
+  {
+    "key": "concacaf_u17",
+    "label": "CONCACAF U17"
+  },
+  {
+    "key": "concacaf_u20",
+    "label": "CONCACAF U20"
+  },
+  {
+    "key": "concacaf_w_champions_cup",
+    "label": "CONCACAF W Champions Cup"
+  },
+  {
+    "key": "concacaf_w_gold_cup",
+    "label": "CONCACAF W Gold Cup"
+  },
+  {
+    "key": "concacaf_women_s_u17",
+    "label": "CONCACAF Women's U17"
+  },
+  {
+    "key": "concacaf_women_s_u20",
+    "label": "CONCACAF Women's U20"
+  },
+  {
+    "key": "conmebol_copa_america",
+    "label": "CONMEBOL Copa America"
+  },
+  {
+    "key": "conmebol_copa_america_femenina",
+    "label": "CONMEBOL Copa America Femenina"
+  },
+  {
+    "key": "conmebol_libertadores_u20",
+    "label": "CONMEBOL Libertadores U20"
+  },
+  {
+    "key": "conmebol_pre_olympic_tournament",
+    "label": "CONMEBOL Pre-Olympic Tournament"
+  },
+  {
+    "key": "conmebol_sudamericana",
+    "label": "CONMEBOL Sudamericana"
+  },
+  {
+    "key": "conmebol_u15",
+    "label": "CONMEBOL U15"
+  },
+  {
+    "key": "conmebol_u17",
+    "label": "CONMEBOL U17"
+  },
+  {
+    "key": "conmebol_u17_femenino",
+    "label": "CONMEBOL U17 Femenino"
+  },
+  {
+    "key": "conmebol_u20",
+    "label": "CONMEBOL U20"
+  },
+  {
+    "key": "conmebol_u20_femenino",
+    "label": "CONMEBOL U20 Femenino"
+  },
+  {
+    "key": "cotif_tournament",
+    "label": "COTIF Tournament"
+  },
+  {
+    "key": "csl",
+    "label": "CSL (Level 1, China)"
+  },
+  {
+    "key": "campeones_cup",
+    "label": "Campeones Cup"
+  },
+  {
+    "key": "campe_n_de_campeones",
+    "label": "Campeón de Campeones (Mexico)"
+  },
+  {
+    "key": "campionato_primavera_1",
+    "label": "Campionato Primavera 1 (Italy)"
+  },
+  {
+    "key": "canadian_championship",
+    "label": "Canadian Championship"
+  },
+  {
+    "key": "canadian_premier_league",
+    "label": "Canadian Premier League"
+  },
+  {
+    "key": "capital_territory_npl",
+    "label": "Capital Territory NPL (State League, Australia)"
+  },
+  {
+    "key": "carabao_cup",
+    "label": "Carabao Cup (England)"
+  },
+  {
+    "key": "carioca_1",
+    "label": "Carioca 1 (State League, Rio de Janeiro)"
+  },
+  {
+    "key": "catarinense_1",
+    "label": "Catarinense 1 (State League, Santa Catarina)"
+  },
+  {
+    "key": "cearense_1",
+    "label": "Cearense 1 (State League, Ceará)"
+  },
+  {
+    "key": "challenge_league",
+    "label": "Challenge League (Level 2, Switzerland)"
+  },
+  {
+    "key": "challenger_pro_league",
+    "label": "Challenger Pro League (Belgium)"
+  },
+  {
+    "key": "championship",
+    "label": "Championship (England)"
+  },
+  {
+    "key": "championship_744",
+    "label": "Championship (Level 2, Scotland)"
+  },
+  {
+    "key": "chance_liga",
+    "label": "Chance Liga (Level 1, Czech Repbulic)"
+  },
+  {
+    "key": "chance_national_liga",
+    "label": "Chance National Liga (Level 2, Czech Republic)"
+  },
+  {
+    "key": "china_league_one",
+    "label": "China League One (Level 2, China)"
+  },
+  {
+    "key": "china_league_two",
+    "label": "China League Two (Level 3, China)"
+  },
+  {
+    "key": "community_shield",
+    "label": "Community Shield (England)"
+  },
+  {
+    "key": "community_shield_43378",
+    "label": "Community Shield (Singapore)"
+  },
+  {
+    "key": "copa_argentina",
+    "label": "Copa Argentina (Argentina)"
+  },
+  {
+    "key": "copa_chile",
+    "label": "Copa Chile"
+  },
+  {
+    "key": "copa_constituci",
+    "label": "Copa Constitució (Andorra)"
+  },
+  {
+    "key": "copa_libertadores",
+    "label": "Copa Libertadores"
+  },
+  {
+    "key": "copa_libertadores_femenina",
+    "label": "Copa Libertadores Femenina"
+  },
+  {
+    "key": "copa_mx",
+    "label": "Copa MX"
+  },
+  {
+    "key": "copa_paulista",
+    "label": "Copa Paulista"
+  },
+  {
+    "key": "copa_proyecci_n",
+    "label": "Copa Proyección (Argentina)"
+  },
+  {
+    "key": "copa_uruguay",
+    "label": "Copa Uruguay"
+  },
+  {
+    "key": "copa_verde",
+    "label": "Copa Verde (Regional Cup)"
+  },
+  {
+    "key": "copa_do_brasil",
+    "label": "Copa do Brasil (Bazil)"
+  },
+  {
+    "key": "copa_do_brasil_u17",
+    "label": "Copa do Brasil U17 (Brazil)"
+  },
+  {
+    "key": "copa_do_brasil_u20",
+    "label": "Copa do Brasil U20 (Brazil)"
+  },
+  {
+    "key": "copa_do_nordeste",
+    "label": "Copa do Nordeste (Northeast Brazil)"
+  },
+  {
+    "key": "coppa_italia",
+    "label": "Coppa Italia (Italy)"
+  },
+  {
+    "key": "coppa_italia_primavera",
+    "label": "Coppa Italia Primavera (Italy)"
+  },
+  {
+    "key": "coppa_italia_serie_c",
+    "label": "Coppa Italia Serie C (Italy)"
+  },
+  {
+    "key": "coupe_de_france",
+    "label": "Coupe de France"
+  },
+  {
+    "key": "creative_championship",
+    "label": "Creative Championship (Nigeria)"
+  },
+  {
+    "key": "cup",
+    "label": "Cup (Albania)"
+  },
+  {
+    "key": "cup_176",
+    "label": "Cup (Azerbaijan)"
+  },
+  {
+    "key": "cup_195",
+    "label": "Cup (Belgium)"
+  },
+  {
+    "key": "cup_306",
+    "label": "Cup (Croatia)"
+  },
+  {
+    "key": "cup_313",
+    "label": "Cup (Cyprus)"
+  },
+  {
+    "key": "cup_321",
+    "label": "Cup (Czech Republic)"
+  },
+  {
+    "key": "cup_370",
+    "label": "Cup (Estonia)"
+  },
+  {
+    "key": "cup_476",
+    "label": "Cup (Iceland)"
+  },
+  {
+    "key": "cup_545",
+    "label": "Cup (Kazakhstan)"
+  },
+  {
+    "key": "cup_564",
+    "label": "Cup (Latvia)"
+  },
+  {
+    "key": "cup_577",
+    "label": "Cup (Lithuania)"
+  },
+  {
+    "key": "cup_906",
+    "label": "Cup (Montenegro)"
+  },
+  {
+    "key": "cup_625",
+    "label": "Cup (Morocco)"
+  },
+  {
+    "key": "cup_691",
+    "label": "Cup (Poland)"
+  },
+  {
+    "key": "cup_726",
+    "label": "Cup (Russia)"
+  },
+  {
+    "key": "cup_901",
+    "label": "Cup (Serbia)"
+  },
+  {
+    "key": "cup_768",
+    "label": "Cup (Singapore)"
+  },
+  {
+    "key": "cup_769",
+    "label": "Cup (Slovakia)"
+  },
+  {
+    "key": "cup_780",
+    "label": "Cup (Slovenia)"
+  },
+  {
+    "key": "cup_856",
+    "label": "Cup (Ukraine)"
+  },
+  {
+    "key": "cup_882",
+    "label": "Cup (Uzbekistan)"
+  },
+  {
+    "key": "cupa_elitelor_u17",
+    "label": "Cupa Elitelor U17 (Romania)"
+  },
+  {
+    "key": "cupa_moldovei",
+    "label": "Cupa Moldovei (Moldova)"
+  },
+  {
+    "key": "cupa_rom_niei",
+    "label": "Cupa României (Romania)"
+  },
+  {
+    "key": "cupa_rom_niei_feminin",
+    "label": "Cupa României Feminin (Romania)"
+  },
+  {
+    "key": "cupa_de_tineret",
+    "label": "Cupa de Tineret (Romania Youth Cup U19)"
+  },
+  {
+    "key": "dbu_pokalen",
+    "label": "DBU Pokalen (Denmark)"
+  },
+  {
+    "key": "dfb_pokal",
+    "label": "DFB Pokal (Germany)"
+  },
+  {
+    "key": "damallsvenskan",
+    "label": "Damallsvenskan (Sweden)"
+  },
+  {
+    "key": "division_1",
+    "label": "Division 1 (Level 2, Saudi Arabia)"
+  },
+  {
+    "key": "division_1_862",
+    "label": "Division 1 (Level 2, UAE)"
+  },
+  {
+    "key": "division_2",
+    "label": "Division 2 (Level 3, Saudi Arabia)"
+  },
+  {
+    "key": "druha_liga",
+    "label": "Druha Liga (Level 2, Ukraine)"
+  },
+  {
+    "key": "eerste_divisie",
+    "label": "Eerste Divisie (Level 2, Netherlands)"
+  },
+  {
+    "key": "ekstraklasa",
+    "label": "Ekstraklasa (Level 1, Poland)"
+  },
+  {
+    "key": "elite_1_under_18",
+    "label": "Elite 1 Under 18 (Belgium)"
+  },
+  {
+    "key": "eliteserien",
+    "label": "Eliteserien (Level 1, Norway)"
+  },
+  {
+    "key": "elitettan",
+    "label": "Elitettan (Level 2, Sweden)"
+  },
+  {
+    "key": "emir_of_kano_cup",
+    "label": "Emir of Kano Cup (Nigeria)"
+  },
+  {
+    "key": "eredivisie",
+    "label": "Eredivisie"
+  },
+  {
+    "key": "esiliiga_a",
+    "label": "Esiliiga A (Level 2, Estonia)"
+  },
+  {
+    "key": "ettan",
+    "label": "Ettan (Level 3, Sweden)"
+  },
+  {
+    "key": "fa_cup",
+    "label": "FA Cup (China)"
+  },
+  {
+    "key": "fa_cup_352",
+    "label": "FA Cup (England)"
+  },
+  {
+    "key": "fa_cup_458",
+    "label": "FA Cup (Hong Kong)"
+  },
+  {
+    "key": "fa_cup_597",
+    "label": "FA Cup (Malaysia)"
+  },
+  {
+    "key": "fa_cup_751",
+    "label": "FA Cup (Scotland)"
+  },
+  {
+    "key": "fa_cup_550",
+    "label": "FA Cup (South Korea)"
+  },
+  {
+    "key": "fa_cup_1447",
+    "label": "FA Cup (Thailand)"
+  },
+  {
+    "key": "fa_women_s_cup",
+    "label": "FA Women's Cup (England)"
+  },
+  {
+    "key": "fifa_club_world_cup",
+    "label": "FIFA Club World Cup"
+  },
+  {
+    "key": "fifa_intercontinental_cup",
+    "label": "FIFA Intercontinental Cup"
+  },
+  {
+    "key": "fifa_u17_women_s_world_cup",
+    "label": "FIFA U17 Women's World Cup"
+  },
+  {
+    "key": "fifa_u17_world_cup",
+    "label": "FIFA U17 World Cup"
+  },
+  {
+    "key": "fifa_u20_women_s_world_cup",
+    "label": "FIFA U20 Women's World Cup"
+  },
+  {
+    "key": "fifa_women_s_wc_qualification_ofc",
+    "label": "FIFA Women's WC Qualification (Oceania)"
+  },
+  {
+    "key": "fifa_world_cup",
+    "label": "Fifa World Cup"
+  },
+  {
+    "key": "first_league",
+    "label": "First League (Level 2, Armenia)"
+  },
+  {
+    "key": "first_league_907",
+    "label": "First League (Montenegro)"
+  },
+  {
+    "key": "first_nl",
+    "label": "First NL (Level 2, Croatia)"
+  },
+  {
+    "key": "football_federations_cup_u16",
+    "label": "Football Federations Cup U16"
+  },
+  {
+    "key": "frauen_bundesliga",
+    "label": "Frauen Bundesliga (Germany)"
+  },
+  {
+    "key": "freedom_qj_league_u16",
+    "label": "Freedom QJ League U16 (Kazakhstan)"
+  },
+  {
+    "key": "freedom_qj_league_u17",
+    "label": "Freedom QJ League U17 (Kazakhstan)"
+  },
+  {
+    "key": "freedom_qj_league_u18",
+    "label": "Freedom QJ League U18 (Kazakhstan)"
+  },
+  {
+    "key": "ga_cho_1",
+    "label": "Gaúcho 1 (State League, Rio Grande do Sul)"
+  },
+  {
+    "key": "goiano_1",
+    "label": "Goiano 1 (State League, Goiás)"
+  },
+  {
+    "key": "hudl_independent_schools_league",
+    "label": "Hudl Independent Schools League (England)"
+  },
+  {
+    "key": "i_liga",
+    "label": "I Liga (Level 2, Poland)"
+  },
+  {
+    "key": "i_league",
+    "label": "I-League (Level 2, India)"
+  },
+  {
+    "key": "idbank_premier_league",
+    "label": "IDBank Premier League (Level 1, Armenia)"
+  },
+  {
+    "key": "ii_liga",
+    "label": "II Liga (Level 3, Poland)"
+  },
+  {
+    "key": "indian_super_league",
+    "label": "Indian Super League"
+  },
+  {
+    "key": "irish_cup",
+    "label": "Irish Cup (Northern Ireland)"
+  },
+  {
+    "key": "j_league_cup",
+    "label": "J-League Cup (Japan)"
+  },
+  {
+    "key": "j1_league",
+    "label": "J1 League (Level 1, Japan)"
+  },
+  {
+    "key": "j2_league",
+    "label": "J2 League (Level 2, Japan)"
+  },
+  {
+    "key": "j3_league",
+    "label": "J3 League (Level 3, Japan)"
+  },
+  {
+    "key": "k_league_1",
+    "label": "K League 1 (South Korea)"
+  },
+  {
+    "key": "k_league_2",
+    "label": "K League 2 (South Korea)"
+  },
+  {
+    "key": "knvb_beker",
+    "label": "KNVB Beker"
+  },
+  {
+    "key": "kansallinen_liiga",
+    "label": "Kansallinen Liga (Finland)"
+  },
+  {
+    "key": "king_s_cup",
+    "label": "King's Cup (Saudi Arabia)"
+  },
+  {
+    "key": "lfpb",
+    "label": "LFPB (Bolivia)"
+  },
+  {
+    "key": "lpf",
+    "label": "LPF (Panama)"
+  },
+  {
+    "key": "la_liga",
+    "label": "La Liga"
+  },
+  {
+    "key": "league_cup_746",
+    "label": "League Cup"
+  },
+  {
+    "key": "league_cup",
+    "label": "League Cup (Finland)"
+  },
+  {
+    "key": "league_cup_1616",
+    "label": "League Cup (Thailand)"
+  },
+  {
+    "key": "league_cup_864",
+    "label": "League Cup (UAE)"
+  },
+  {
+    "key": "league_one",
+    "label": "League One (Level 3, England)"
+  },
+  {
+    "key": "league_one_752",
+    "label": "League One (Level 3, Scotland)"
+  },
+  {
+    "key": "league_two",
+    "label": "League Two (Level 4, England)"
+  },
+  {
+    "key": "league_two_757",
+    "label": "League Two (Level 4, Scotland)"
+  },
+  {
+    "key": "leagues_cup",
+    "label": "Leagues Cup"
+  },
+  {
+    "key": "liga_1",
+    "label": "Liga 1 (Level 1, Indonesia)"
+  },
+  {
+    "key": "liga_3",
+    "label": "Liga 3 (Level 3, Portugal)"
+  },
+  {
+    "key": "liga_cupen_u16",
+    "label": "Liga Cupen U16 (Sweden)"
+  },
+  {
+    "key": "liga_cupen_u17",
+    "label": "Liga Cupen U17 (Sweden)"
+  },
+  {
+    "key": "liga_cupen_u19",
+    "label": "Liga Cupen U19 (Sweden)"
+  },
+  {
+    "key": "liga_elitelor_u17",
+    "label": "Liga Elitelor U17 (Romania)"
+  },
+  {
+    "key": "liga_f",
+    "label": "Liga F (Spain)"
+  },
+  {
+    "key": "liga_ii",
+    "label": "Liga II (Level 2, Romania)"
+  },
+  {
+    "key": "liga_leumit",
+    "label": "Liga Leumit (Level 2, Israel)"
+  },
+  {
+    "key": "liga_mx",
+    "label": "Liga MX (Mexico)"
+  },
+  {
+    "key": "liga_mayor",
+    "label": "Liga Mayor (Domincan Republic)"
+  },
+  {
+    "key": "liga_nacional",
+    "label": "Liga Nacional (Honduras)"
+  },
+  {
+    "key": "liga_pro_serie_b",
+    "label": "Liga Pro Serie B (Level 2, Ecuador)"
+  },
+  {
+    "key": "liga_profesional_de_f_tbol",
+    "label": "Liga Profesional de Fútbol (Level 1, Argentina)"
+  },
+  {
+    "key": "liga_revela_o_sub_23",
+    "label": "Liga Revelação Sub 23 (Portugal)"
+  },
+  {
+    "key": "liga_tineret",
+    "label": "Liga Tineret (Romania U19)"
+  },
+  {
+    "key": "liga_de_expansi_n_mx",
+    "label": "Liga de Expansión MX (Level 2, Mexico)"
+  },
+  {
+    "key": "ligat_ha_al",
+    "label": "Ligat ha'Al (Level 1, Israel)"
+  },
+  {
+    "key": "ligue_1",
+    "label": "Ligue 1"
+  },
+  {
+    "key": "ligue_2",
+    "label": "Ligue 2 (France)"
+  },
+  {
+    "key": "mfl_cup",
+    "label": "MFL Cup (Malaysia)"
+  },
+  {
+    "key": "mls",
+    "label": "MLS"
+  },
+  {
+    "key": "mls_all_star",
+    "label": "MLS All-Star"
+  },
+  {
+    "key": "mls_next_pro",
+    "label": "MLS Next Pro (USA)"
+  },
+  {
+    "key": "mlsz_u19_orsz_gos_kiemelt",
+    "label": "MLSZ U19 Országos Kiemelt (Hungary U19)"
+  },
+  {
+    "key": "magyar_kupa",
+    "label": "Magyar Kupa (Hungary)"
+  },
+  {
+    "key": "malaysia_cup",
+    "label": "Malaysia Cup (Malaysia)"
+  },
+  {
+    "key": "meistaradeildin",
+    "label": "Meistaradeildin (Faroe Islands)"
+  },
+  {
+    "key": "mineiro_1",
+    "label": "Mineiro 1 (State League, Minas Gerais)"
+  },
+  {
+    "key": "n_youth_league_cup",
+    "label": "N-Youth League Cup (Nigeria)"
+  },
+  {
+    "key": "naia_championship",
+    "label": "NAIA Championship"
+  },
+  {
+    "key": "naia_championship_w",
+    "label": "NAIA Championship (W)"
+  },
+  {
+    "key": "naia_crossroads_league_w",
+    "label": "NAIA Crossroads League (W)"
+  },
+  {
+    "key": "naia_mid_south_conference",
+    "label": "NAIA Mid-South Conference"
+  },
+  {
+    "key": "naia_non_conference_matches",
+    "label": "NAIA Non-conference matches"
+  },
+  {
+    "key": "naia_non_conference_matches_w",
+    "label": "NAIA Non-conference matches (W)"
+  },
+  {
+    "key": "naia_the_sun_conference",
+    "label": "NAIA The Sun Conference"
+  },
+  {
+    "key": "naia_the_sun_conference_w",
+    "label": "NAIA The Sun Conference (W)"
+  },
+  {
+    "key": "nb_i",
+    "label": "NB I (Hungary)"
+  },
+  {
+    "key": "nb_ii",
+    "label": "NB II (Hungary)"
+  },
+  {
+    "key": "ncaa_d1_asun",
+    "label": "NCAA D1 ASUN"
+  },
+  {
+    "key": "ncaa_d1_asun_w",
+    "label": "NCAA D1 ASUN (W)"
+  },
+  {
+    "key": "ncaa_d1_america_east",
+    "label": "NCAA D1 America East"
+  },
+  {
+    "key": "ncaa_d1_america_east_w",
+    "label": "NCAA D1 America East (W)"
+  },
+  {
+    "key": "ncaa_d1_american_athletic",
+    "label": "NCAA D1 American Athletic"
+  },
+  {
+    "key": "ncaa_d1_american_athletic_w",
+    "label": "NCAA D1 American Athletic (W)"
+  },
+  {
+    "key": "ncaa_d1_atlantic_10",
+    "label": "NCAA D1 Atlantic 10"
+  },
+  {
+    "key": "ncaa_d1_atlantic_10_w",
+    "label": "NCAA D1 Atlantic 10 (W)"
+  },
+  {
+    "key": "ncaa_d1_atlantic_coast",
+    "label": "NCAA D1 Atlantic Coast"
+  },
+  {
+    "key": "ncaa_d1_atlantic_coast_w",
+    "label": "NCAA D1 Atlantic Coast (W)"
+  },
+  {
+    "key": "ncaa_d1_big_12_w",
+    "label": "NCAA D1 Big 12 (W)"
+  },
+  {
+    "key": "ncaa_d1_big_east",
+    "label": "NCAA D1 Big East"
+  },
+  {
+    "key": "ncaa_d1_big_east_w",
+    "label": "NCAA D1 Big East (W)"
+  },
+  {
+    "key": "ncaa_d1_big_sky_w",
+    "label": "NCAA D1 Big Sky (W)"
+  },
+  {
+    "key": "ncaa_d1_big_south",
+    "label": "NCAA D1 Big South"
+  },
+  {
+    "key": "ncaa_d1_big_south_w",
+    "label": "NCAA D1 Big South (W)"
+  },
+  {
+    "key": "ncaa_d1_big_ten",
+    "label": "NCAA D1 Big Ten"
+  },
+  {
+    "key": "ncaa_d1_big_ten_w",
+    "label": "NCAA D1 Big Ten (W)"
+  },
+  {
+    "key": "ncaa_d1_big_west",
+    "label": "NCAA D1 Big West"
+  },
+  {
+    "key": "ncaa_d1_big_west_w",
+    "label": "NCAA D1 Big West (W)"
+  },
+  {
+    "key": "ncaa_d1_coastal_athletic_association",
+    "label": "NCAA D1 Coastal Athletic Association"
+  },
+  {
+    "key": "ncaa_d1_college_cup",
+    "label": "NCAA D1 College Cup"
+  },
+  {
+    "key": "ncaa_d1_college_cup_w",
+    "label": "NCAA D1 College Cup (W)"
+  },
+  {
+    "key": "ncaa_d1_conference_usa",
+    "label": "NCAA D1 Conference USA"
+  },
+  {
+    "key": "ncaa_d1_conference_usa_w",
+    "label": "NCAA D1 Conference USA (W)"
+  },
+  {
+    "key": "ncaa_d1_horizon_league",
+    "label": "NCAA D1 Horizon League"
+  },
+  {
+    "key": "ncaa_d1_horizon_league_w",
+    "label": "NCAA D1 Horizon League (W)"
+  },
+  {
+    "key": "ncaa_d1_ivy_league",
+    "label": "NCAA D1 Ivy League"
+  },
+  {
+    "key": "ncaa_d1_ivy_league_w",
+    "label": "NCAA D1 Ivy League (W)"
+  },
+  {
+    "key": "ncaa_d1_mid_american",
+    "label": "NCAA D1 Mid-American"
+  },
+  {
+    "key": "ncaa_d1_mid_american_w",
+    "label": "NCAA D1 Mid-American (W)"
+  },
+  {
+    "key": "ncaa_d1_missouri_valley",
+    "label": "NCAA D1 Missouri Valley"
+  },
+  {
+    "key": "ncaa_d1_missouri_valley_w",
+    "label": "NCAA D1 Missouri Valley (W)"
+  },
+  {
+    "key": "ncaa_d1_mountain_west_w",
+    "label": "NCAA D1 Mountain West (W)"
+  },
+  {
+    "key": "ncaa_d1_non_conference_matches",
+    "label": "NCAA D1 Non-conference matches"
+  },
+  {
+    "key": "ncaa_d1_northeast",
+    "label": "NCAA D1 Northeast"
+  },
+  {
+    "key": "ncaa_d1_northeast_w",
+    "label": "NCAA D1 Northeast (W)"
+  },
+  {
+    "key": "ncaa_d1_ohio_valley",
+    "label": "NCAA D1 Ohio Valley"
+  },
+  {
+    "key": "ncaa_d1_ohio_valley_w",
+    "label": "NCAA D1 Ohio Valley (W)"
+  },
+  {
+    "key": "ncaa_d1_pacific_12",
+    "label": "NCAA D1 Pacific 12"
+  },
+  {
+    "key": "ncaa_d1_pacific_12_w",
+    "label": "NCAA D1 Pacific 12 (W)"
+  },
+  {
+    "key": "ncaa_d1_patriot_league",
+    "label": "NCAA D1 Patriot League"
+  },
+  {
+    "key": "ncaa_d1_patriot_league_w",
+    "label": "NCAA D1 Patriot League (W)"
+  },
+  {
+    "key": "ncaa_d1_sec_w",
+    "label": "NCAA D1 SEC (W)"
+  },
+  {
+    "key": "ncaa_d1_southern",
+    "label": "NCAA D1 Southern"
+  },
+  {
+    "key": "ncaa_d1_southern_w",
+    "label": "NCAA D1 Southern (W)"
+  },
+  {
+    "key": "ncaa_d1_southland_w",
+    "label": "NCAA D1 Southland (W)"
+  },
+  {
+    "key": "ncaa_d1_southwestern_athletic_w",
+    "label": "NCAA D1 Southwestern Athletic (W)"
+  },
+  {
+    "key": "ncaa_d1_summit_league",
+    "label": "NCAA D1 Summit League"
+  },
+  {
+    "key": "ncaa_d1_summit_league_w",
+    "label": "NCAA D1 Summit League (W)"
+  },
+  {
+    "key": "ncaa_d1_sun_belt",
+    "label": "NCAA D1 Sun Belt"
+  },
+  {
+    "key": "ncaa_d1_sun_belt_w",
+    "label": "NCAA D1 Sun Belt (W)"
+  },
+  {
+    "key": "ncaa_d1_west_coast",
+    "label": "NCAA D1 West Coast"
+  },
+  {
+    "key": "ncaa_d1_west_coast_w",
+    "label": "NCAA D1 West Coast (W)"
+  },
+  {
+    "key": "ncaa_d1_western_athletic",
+    "label": "NCAA D1 Western Athletic"
+  },
+  {
+    "key": "ncaa_d1_western_athletic_w",
+    "label": "NCAA D1 Western Athletic (W)"
+  },
+  {
+    "key": "ncaa_d2_championship",
+    "label": "NCAA D2 Championship"
+  },
+  {
+    "key": "ncaa_d2_championship_w",
+    "label": "NCAA D2 Championship (W)"
+  },
+  {
+    "key": "ncaa_d2_conference_carolinas",
+    "label": "NCAA D2 Conference Carolinas"
+  },
+  {
+    "key": "ncaa_d2_conference_carolinas_w",
+    "label": "NCAA D2 Conference Carolinas (W)"
+  },
+  {
+    "key": "ncaa_d2_great_american_conference",
+    "label": "NCAA D2 Great American Conference"
+  },
+  {
+    "key": "ncaa_d2_lone_star_conference",
+    "label": "NCAA D2 Lone Star Conference"
+  },
+  {
+    "key": "ncaa_d2_lone_star_conference_w",
+    "label": "NCAA D2 Lone Star Conference (W)"
+  },
+  {
+    "key": "ncaa_d2_mountain_east_conference",
+    "label": "NCAA D2 Mountain East Conference"
+  },
+  {
+    "key": "ncaa_d2_non_conference_matches",
+    "label": "NCAA D2 Non-conference matches"
+  },
+  {
+    "key": "ncaa_d2_northeast_10_conference",
+    "label": "NCAA D2 Northeast-10 Conference"
+  },
+  {
+    "key": "ncaa_d2_pacific_west_conference",
+    "label": "NCAA D2 Pacific West Conference"
+  },
+  {
+    "key": "ncaa_d2_peach_belt_conference",
+    "label": "NCAA D2 Peach Belt Conference"
+  },
+  {
+    "key": "ncaa_d2_south_atlantic_conference",
+    "label": "NCAA D2 South Atlantic Conference"
+  },
+  {
+    "key": "ncaa_d2_sunshine_state_conference",
+    "label": "NCAA D2 Sunshine State Conference"
+  },
+  {
+    "key": "ncaa_d3_centennial_conference",
+    "label": "NCAA D3 Centennial Conference"
+  },
+  {
+    "key": "ncaa_d3_championship",
+    "label": "NCAA D3 Championship"
+  },
+  {
+    "key": "ncaa_d3_championship_w",
+    "label": "NCAA D3 Championship (W)"
+  },
+  {
+    "key": "ncaa_d3_empire_8_w",
+    "label": "NCAA D3 Empire 8 (W)"
+  },
+  {
+    "key": "ncaa_d3_non_conference_matches",
+    "label": "NCAA D3 Non-conference matches"
+  },
+  {
+    "key": "ncaa_d3_north_atlantic_conference",
+    "label": "NCAA D3 North Atlantic Conference"
+  },
+  {
+    "key": "ncaa_d3_university_athletic_association",
+    "label": "NCAA D3 University Athletic Association"
+  },
+  {
+    "key": "njcaa_non_conference_matches",
+    "label": "NJCAA Non-conference matches"
+  },
+  {
+    "key": "nm_cupen",
+    "label": "NM Cupen (Norway)"
+  },
+  {
+    "key": "nwsl",
+    "label": "NWSL (USA)"
+  },
+  {
+    "key": "nwsl_challenge_cup",
+    "label": "NWSL Challenge Cup (USA)"
+  },
+  {
+    "key": "nasjonal_regional_g19",
+    "label": "Nasjonal Regional G19 (Norway U19)"
+  },
+  {
+    "key": "national_1",
+    "label": "National 1 (Level 3, France)"
+  },
+  {
+    "key": "national_league",
+    "label": "National League (Level 5, England)"
+  },
+  {
+    "key": "national_league_43435",
+    "label": "National League (New Zealand)"
+  },
+  {
+    "key": "national_league_n_s",
+    "label": "National League N / S (Level 6, England)"
+  },
+  {
+    "key": "national_women_s_league",
+    "label": "National Women's League (New Zealand)"
+  },
+  {
+    "key": "new_south_wales_npl",
+    "label": "New South Wales NPL (State League, Australia)"
+  },
+  {
+    "key": "new_south_wales_npl_women",
+    "label": "New South Wales NPL Women (State League, Australia)"
+  },
+  {
+    "key": "nik_liga",
+    "label": "Niké Liga (Level 1, Slovakia)"
+  },
+  {
+    "key": "non_league_div_one",
+    "label": "Non League Div One (Level 8, England)"
+  },
+  {
+    "key": "non_league_premier",
+    "label": "Non League Premier (Level 7, England)"
+  },
+  {
+    "key": "northern_super_league",
+    "label": "Norther Super League (Canada)"
+  },
+  {
+    "key": "obos_nasjonal_g17_1st_division",
+    "label": "OBOS Nasjonal G17 - 1st Division (Norway U17)"
+  },
+  {
+    "key": "obos_nasjonal_g17_2nd_division",
+    "label": "OBOS Nasjonal G17 - 2nd Division (Norway U17)"
+  },
+  {
+    "key": "ofc_champions_league",
+    "label": "OFC Champions League (Oceania)"
+  },
+  {
+    "key": "ofc_nations_cup",
+    "label": "OFC Nations Cup (Oceania)"
+  },
+  {
+    "key": "ofc_world_cup_qualifiers",
+    "label": "OFC World Cup Qualifiers (Oceania)"
+  },
+  {
+    "key": "oberndorf_tournament_u19",
+    "label": "Oberndorf Tournament U19"
+  },
+  {
+    "key": "obos_ligaen",
+    "label": "Obos Ligaen (Level 2, Norway)"
+  },
+  {
+    "key": "p17_sm_karsintasarja",
+    "label": "P17 SM-karsintasarja (Finland U17)"
+  },
+  {
+    "key": "pfl",
+    "label": "PFL (Philippines)"
+  },
+  {
+    "key": "psl",
+    "label": "PSL (South Africa)"
+  },
+  {
+    "key": "papa_john_s_efl_trophy",
+    "label": "Papa John’s EFL Trophy (England)"
+  },
+  {
+    "key": "paraense",
+    "label": "Paraense (State League, Pará)"
+  },
+  {
+    "key": "paranaense_1",
+    "label": "Paranaense 1 (State League, Paraná)"
+  },
+  {
+    "key": "paulista_a1",
+    "label": "Paulista A1 (State League, São Paulo)"
+  },
+  {
+    "key": "paulista_a2",
+    "label": "Paulista A2 (State League, São Paulo)"
+  },
+  {
+    "key": "paulista_a3",
+    "label": "Paulista A3 (State League, São Paulo)"
+  },
+  {
+    "key": "paulista_a4",
+    "label": "Paulista A4 (State League, São Paulo)"
+  },
+  {
+    "key": "paulista_u20",
+    "label": "Paulista U20 (Brazil)"
+  },
+  {
+    "key": "paulista_women",
+    "label": "Paulista Women (Brazil)"
+  },
+  {
+    "key": "pernambucano_1",
+    "label": "Pernambucano 1 (State League, Pernambuco)"
+  },
+  {
+    "key": "persha_liga",
+    "label": "Persha Liga (Level 3, Ukraine)"
+  },
+  {
+    "key": "piala_presiden",
+    "label": "Piala Presiden (Indonesia Cup)"
+  },
+  {
+    "key": "pinatar_cup",
+    "label": "Pinatar Cup"
+  },
+  {
+    "key": "pinatar_national_team_friendlies",
+    "label": "Pinatar National Team Friendlies"
+  },
+  {
+    "key": "play_offs_1_2_43126",
+    "label": "Play-Offs 1/2 (Czech Repbulic)"
+  },
+  {
+    "key": "play_offs_1_2_396",
+    "label": "Play-Offs 1/2 (Finland)"
+  },
+  {
+    "key": "play_offs_1_2_908",
+    "label": "Play-Offs 1/2 (Montenegro)"
+  },
+  {
+    "key": "play_offs_2_3_43505",
+    "label": "Play-Offs 2/3 (Switzerland)"
+  },
+  {
+    "key": "play_offs_1_2",
+    "label": "Play-offs 1/2 (Albania)"
+  },
+  {
+    "key": "play_offs_1_2_197",
+    "label": "Play-offs 1/2 (Belgium)"
+  },
+  {
+    "key": "play_offs_1_2_282",
+    "label": "Play-offs 1/2 (Chile)"
+  },
+  {
+    "key": "play_offs_1_2_376",
+    "label": "Play-offs 1/2 (Estonia)"
+  },
+  {
+    "key": "play_offs_1_2_1837",
+    "label": "Play-offs 1/2 (France)"
+  },
+  {
+    "key": "play_offs_1_2_433",
+    "label": "Play-offs 1/2 (Germany)"
+  },
+  {
+    "key": "play_offs_1_2_445",
+    "label": "Play-offs 1/2 (Greece)"
+  },
+  {
+    "key": "play_offs_1_2_43183",
+    "label": "Play-offs 1/2 (Japan)"
+  },
+  {
+    "key": "play_offs_1_2_565",
+    "label": "Play-offs 1/2 (Latvia)"
+  },
+  {
+    "key": "play_offs_1_2_578",
+    "label": "Play-offs 1/2 (Lithuania)"
+  },
+  {
+    "key": "play_offs_1_2_622",
+    "label": "Play-offs 1/2 (Moldova)"
+  },
+  {
+    "key": "play_offs_1_2_639",
+    "label": "Play-offs 1/2 (Netherlands)"
+  },
+  {
+    "key": "play_offs_1_2_661",
+    "label": "Play-offs 1/2 (Northern Ireland)"
+  },
+  {
+    "key": "play_offs_1_2_672",
+    "label": "Play-offs 1/2 (Norway)"
+  },
+  {
+    "key": "play_offs_1_2_43346",
+    "label": "Play-offs 1/2 (Peru)"
+  },
+  {
+    "key": "play_offs_1_2_1668",
+    "label": "Play-offs 1/2 (Portugal)"
+  },
+  {
+    "key": "play_offs_1_2_1830",
+    "label": "Play-offs 1/2 (Romania)"
+  },
+  {
+    "key": "play_offs_1_2_1239",
+    "label": "Play-offs 1/2 (Russia)"
+  },
+  {
+    "key": "play_offs_1_2_747",
+    "label": "Play-offs 1/2 (Scotland)"
+  },
+  {
+    "key": "play_offs_1_2_1679",
+    "label": "Play-offs 1/2 (Serbia)"
+  },
+  {
+    "key": "play_offs_1_2_43085",
+    "label": "Play-offs 1/2 (Slovakia)"
+  },
+  {
+    "key": "play_offs_1_2_781",
+    "label": "Play-offs 1/2 (Slovenia)"
+  },
+  {
+    "key": "play_offs_1_2_1247",
+    "label": "Play-offs 1/2 (South Africa)"
+  },
+  {
+    "key": "play_offs_1_2_1475",
+    "label": "Play-offs 1/2 (South Korea)"
+  },
+  {
+    "key": "play_offs_1_2_814",
+    "label": "Play-offs 1/2 (Sweden)"
+  },
+  {
+    "key": "play_offs_1_2_826",
+    "label": "Play-offs 1/2 (Switzerland)"
+  },
+  {
+    "key": "play_offs_1_2_42952",
+    "label": "Play-offs 1/2 (Ukraine)"
+  },
+  {
+    "key": "play_offs_1_2_1803",
+    "label": "Play-offs 1/2 (Uzbekistan)"
+  },
+  {
+    "key": "play_offs_2_3",
+    "label": "Play-offs 2/3 (France)"
+  },
+  {
+    "key": "play_offs_2_3_510",
+    "label": "Play-offs 2/3 (Israel)"
+  },
+  {
+    "key": "play_offs_2_3_1476",
+    "label": "Play-offs 2/3 (Japan)"
+  },
+  {
+    "key": "play_offs_2_3_43051",
+    "label": "Play-offs 2/3 (Norway)"
+  },
+  {
+    "key": "play_offs_2_3_42948",
+    "label": "Play-offs 2/3 (Portugal)"
+  },
+  {
+    "key": "play_offs_2_3_748",
+    "label": "Play-offs 2/3 (Scotland)"
+  },
+  {
+    "key": "play_offs_2_3_815",
+    "label": "Play-offs 2/3 (Sweden)"
+  },
+  {
+    "key": "play_offs_2_3_1248",
+    "label": "Play-offs 2/3 (Ukraine)"
+  },
+  {
+    "key": "play_offs_3_4",
+    "label": "Play-offs 3/4 (Scotland)"
+  },
+  {
+    "key": "play_offs_4_5",
+    "label": "Play-offs 4/5 (Germany)"
+  },
+  {
+    "key": "play_offs_4_5_1236",
+    "label": "Play-offs 4/5 (Netherlands)"
+  },
+  {
+    "key": "play_offs_5_6",
+    "label": "Play-offs 5/6 (Netherlands)"
+  },
+  {
+    "key": "premier_league_364",
+    "label": "Premier League"
+  },
+  {
+    "key": "premier_league",
+    "label": "Premier League (Bahrain)"
+  },
+  {
+    "key": "premier_league_531",
+    "label": "Premier League (Jamaica)"
+  },
+  {
+    "key": "premier_league_459",
+    "label": "Premier League (Level 1, Hong Kong)"
+  },
+  {
+    "key": "premier_league_546",
+    "label": "Premier League (Level 1, Kazakhstan)"
+  },
+  {
+    "key": "premier_league_729",
+    "label": "Premier League (Russia)"
+  },
+  {
+    "key": "premier_league_767",
+    "label": "Premier League (Singapore)"
+  },
+  {
+    "key": "premier_league_893",
+    "label": "Premier League (Wales)"
+  },
+  {
+    "key": "premier_league_2",
+    "label": "Premier League 2 (England)"
+  },
+  {
+    "key": "premier_league_division_one_women",
+    "label": "Premier League Division One Women (England)"
+  },
+  {
+    "key": "premier_league_international_cup",
+    "label": "Premier League International Cup"
+  },
+  {
+    "key": "premiership",
+    "label": "Premiership (Northern Ireland)"
+  },
+  {
+    "key": "premiership_750",
+    "label": "Premiership (Scotland)"
+  },
+  {
+    "key": "premiership_women",
+    "label": "Premiership Women (Northern Ireland)"
+  },
+  {
+    "key": "premyer_liqa",
+    "label": "Premyer Liqa (Level 1, Azerbaijan)"
+  },
+  {
+    "key": "presidents_cup",
+    "label": "Presidents Cup (UAE)"
+  },
+  {
+    "key": "prim_b_metro",
+    "label": "Prim B Metro (Third Division, Buenos Aires)"
+  },
+  {
+    "key": "primera_b",
+    "label": "Primera B (Level 2, Chile)"
+  },
+  {
+    "key": "primera_division",
+    "label": "Primera Division (El Salvador)"
+  },
+  {
+    "key": "primera_division_652",
+    "label": "Primera Division (Nicaragua)"
+  },
+  {
+    "key": "primera_division_rfef",
+    "label": "Primera Division RFEF (Level 3, Spain)"
+  },
+  {
+    "key": "primera_divisi_n",
+    "label": "Primera División (Level 1, Chile)"
+  },
+  {
+    "key": "primera_divisi_n_879",
+    "label": "Primera División (Level 1, Uruguay)"
+  },
+  {
+    "key": "primera_divisi_n_688",
+    "label": "Primera División (Peru)"
+  },
+  {
+    "key": "primera_divisi_n_886",
+    "label": "Primera División (Venezuela)"
+  },
+  {
+    "key": "primera_divisi_n_amateur",
+    "label": "Primera División Amateur (Level 3, Uruguay)"
+  },
+  {
+    "key": "primera_nacional",
+    "label": "Primera Nacional (Level 2, Argentina)"
+  },
+  {
+    "key": "pro_league",
+    "label": "Pro League (Belgium)"
+  },
+  {
+    "key": "pro_league_541",
+    "label": "Pro League (Jordan)"
+  },
+  {
+    "key": "pro_league_741",
+    "label": "Pro League (Level 1, Saudi Arabia)"
+  },
+  {
+    "key": "pro_league_u21",
+    "label": "Pro League U21 (Belgium)"
+  },
+  {
+    "key": "professional_development_league",
+    "label": "Professional Development League (England)"
+  },
+  {
+    "key": "prva_hnl_kadeti_u17",
+    "label": "Prva HNL Kadeti U17, Croatia"
+  },
+  {
+    "key": "prva_liga",
+    "label": "Prva Liga (Level 2, Serbia)"
+  },
+  {
+    "key": "queensland_fqpl_1_women",
+    "label": "Queensland FQPL 1 Women (State League, Australia)"
+  },
+  {
+    "key": "queensland_npl",
+    "label": "Queensland NPL (State League, Australia)"
+  },
+  {
+    "key": "queensland_npl_women",
+    "label": "Queensland NPL Women (State League, Australia)"
+  },
+  {
+    "key": "queensland_premier_league",
+    "label": "Queensland Premier League (State League, Australia)"
+  },
+  {
+    "key": "recopa",
+    "label": "Recopa (Costa Rica)"
+  },
+  {
+    "key": "recopa_catarinense",
+    "label": "Recopa Catarinense (Santa Catarina State Cup)"
+  },
+  {
+    "key": "recopa_sudamericana",
+    "label": "Recopa Sudamericana"
+  },
+  {
+    "key": "regionalliga",
+    "label": "Regionalliga (Level 4, Germany)"
+  },
+  {
+    "key": "russian_super_league",
+    "label": "Russian Super League"
+  },
+  {
+    "key": "swpl_1",
+    "label": "SWPL 1 (Level 1, Scotland)"
+  },
+  {
+    "key": "swpl_2",
+    "label": "SWPL 2 (Level 2, Scotland)"
+  },
+  {
+    "key": "swpl_sky_sports_cup",
+    "label": "SWPL Sky Sports Cup (Scotland)"
+  },
+  {
+    "key": "sapling_cup",
+    "label": "Sapling Cup (Hong Kong)"
+  },
+  {
+    "key": "second_division",
+    "label": "Second Division (Level 3, UAE)"
+  },
+  {
+    "key": "second_league",
+    "label": "Second League (Montenegro)"
+  },
+  {
+    "key": "second_nl",
+    "label": "Second NL (Level 3, Croatia)"
+  },
+  {
+    "key": "segunda_division_rfef",
+    "label": "Segunda Division RFEF (Level 4, Spain)"
+  },
+  {
+    "key": "segunda_divisi_n",
+    "label": "Segunda División (Level 2, Spain)"
+  },
+  {
+    "key": "segunda_divisi_n_880",
+    "label": "Segunda División (Level 2, Uruguay)"
+  },
+  {
+    "key": "segunda_liga",
+    "label": "Segunda Liga (Level 2, Portugal)"
+  },
+  {
+    "key": "senior_shield",
+    "label": "Senior Shield (Hong Kong)"
+  },
+  {
+    "key": "sergipano",
+    "label": "Sergipano (State League, Sergipe)"
+  },
+  {
+    "key": "serie_a",
+    "label": "Serie A (Brazil)"
+  },
+  {
+    "key": "serie_a_524",
+    "label": "Serie A (Italy)"
+  },
+  {
+    "key": "serie_b",
+    "label": "Serie B (Brazil)"
+  },
+  {
+    "key": "serie_b_527",
+    "label": "Serie B (Italy)"
+  },
+  {
+    "key": "serie_c_520",
+    "label": "Serie C (Italy)"
+  },
+  {
+    "key": "serie_c",
+    "label": "Serie C (Third Division, National)"
+  },
+  {
+    "key": "serie_d",
+    "label": "Serie D (Italy)"
+  },
+  {
+    "key": "south_australia_npl",
+    "label": "South Australia NPL (State League, Australia)"
+  },
+  {
+    "key": "state_cup",
+    "label": "State Cup (Israel)"
+  },
+  {
+    "key": "stoiximan_super_league",
+    "label": "Stoiximan Super League (Greece)"
+  },
+  {
+    "key": "sul_matogrossense",
+    "label": "Sul-Matogrossense (State League, Mato Grosso do Sul)"
+  },
+  {
+    "key": "suomen_cup",
+    "label": "Suomen Cup (Finland)"
+  },
+  {
+    "key": "super_copa",
+    "label": "Super Copa (Argentina)"
+  },
+  {
+    "key": "super_copa_international",
+    "label": "Super Copa (International)"
+  },
+  {
+    "key": "super_cup",
+    "label": "Super Cup (Albania)"
+  },
+  {
+    "key": "super_cup_1463",
+    "label": "Super Cup (Bahrain)"
+  },
+  {
+    "key": "super_cup_203",
+    "label": "Super Cup (Belgium)"
+  },
+  {
+    "key": "super_cup_1436",
+    "label": "Super Cup (Chile)"
+  },
+  {
+    "key": "super_cup_1397",
+    "label": "Super Cup (China)"
+  },
+  {
+    "key": "super_cup_308",
+    "label": "Super Cup (Croatia)"
+  },
+  {
+    "key": "super_cup_314",
+    "label": "Super Cup (Cyprus)"
+  },
+  {
+    "key": "super_cup_379",
+    "label": "Super Cup (Estonia)"
+  },
+  {
+    "key": "super_cup_390",
+    "label": "Super Cup (Faroe Islands)"
+  },
+  {
+    "key": "super_cup_437",
+    "label": "Super Cup (Germany)"
+  },
+  {
+    "key": "super_cup_478",
+    "label": "Super Cup (Iceland)"
+  },
+  {
+    "key": "super_cup_43016",
+    "label": "Super Cup (Israel)"
+  },
+  {
+    "key": "super_cup_529",
+    "label": "Super Cup (Italy)"
+  },
+  {
+    "key": "super_cup_539",
+    "label": "Super Cup (Japan)"
+  },
+  {
+    "key": "super_cup_547",
+    "label": "Super Cup (Kazakhstan)"
+  },
+  {
+    "key": "super_cup_1410",
+    "label": "Super Cup (Latvia)"
+  },
+  {
+    "key": "super_cup_579",
+    "label": "Super Cup (Lithuania)"
+  },
+  {
+    "key": "super_cup_640",
+    "label": "Super Cup (Netherlands)"
+  },
+  {
+    "key": "super_cup_674",
+    "label": "Super Cup (Norway)"
+  },
+  {
+    "key": "super_cup_700",
+    "label": "Super Cup (Poland)"
+  },
+  {
+    "key": "super_cup_708",
+    "label": "Super Cup (Portugal)"
+  },
+  {
+    "key": "super_cup_730",
+    "label": "Super Cup (Russia)"
+  },
+  {
+    "key": "super_cup_1451",
+    "label": "Super Cup (Saudi Arabia)"
+  },
+  {
+    "key": "super_cup_866",
+    "label": "Super Cup (UAE)"
+  },
+  {
+    "key": "super_cup_861",
+    "label": "Super Cup (Ukraine)"
+  },
+  {
+    "key": "super_cup_1619",
+    "label": "Super Cup (Uzbekistan)"
+  },
+  {
+    "key": "super_cup_primavera",
+    "label": "Super Cup Primavera (Italy)"
+  },
+  {
+    "key": "super_cup_women",
+    "label": "Super Cup Women (Portugal)"
+  },
+  {
+    "key": "super_league",
+    "label": "Super League (Belgium)"
+  },
+  {
+    "key": "super_league_830",
+    "label": "Super League (Level 1, Switzerland)"
+  },
+  {
+    "key": "super_league_602",
+    "label": "Super League (Malaysia)"
+  },
+  {
+    "key": "super_league_883",
+    "label": "Super League (Uzbekistan)"
+  },
+  {
+    "key": "super_league_2",
+    "label": "Super League 2 (Greece)"
+  },
+  {
+    "key": "super_liga_905",
+    "label": "Super Liga (Level 1, Serbia)"
+  },
+  {
+    "key": "super_liga",
+    "label": "Super Liga (Moldova)"
+  },
+  {
+    "key": "supercopa",
+    "label": "Supercopa (Costa Rica)"
+  },
+  {
+    "key": "supercopa_43064",
+    "label": "Supercopa (Uruguay)"
+  },
+  {
+    "key": "supercopa_mx",
+    "label": "Supercopa MX"
+  },
+  {
+    "key": "supercopa_do_brasil",
+    "label": "Supercopa do Brasil"
+  },
+  {
+    "key": "supercup_liga_elitelor_u17",
+    "label": "Supercup Liga Elitelor U17 (Romania)"
+  },
+  {
+    "key": "supercup_liga_de_tineret",
+    "label": "Supercup Liga de Tineret (Romania Youth Cup U19)"
+  },
+  {
+    "key": "supercupa",
+    "label": "Supercupa (Romania)"
+  },
+  {
+    "key": "supercupa_moldovei",
+    "label": "Supercupa Moldovei (Moldova)"
+  },
+  {
+    "key": "superettan",
+    "label": "Superettan (Level 2, Sweden)"
+  },
+  {
+    "key": "superettan_u19",
+    "label": "Superettan U19 (Level 2, Sweden)"
+  },
+  {
+    "key": "superleague",
+    "label": "Superleague (Level 1, Croatia)"
+  },
+  {
+    "key": "superliga",
+    "label": "Superliga (Level 1, Denmark)"
+  },
+  {
+    "key": "superliga_719",
+    "label": "Superliga (Level 1, Romania)"
+  },
+  {
+    "key": "superliga_feminina",
+    "label": "Superliga Feminina (Romania)"
+  },
+  {
+    "key": "svenska_cupen",
+    "label": "Svenska Cupen (Sweden)"
+  },
+  {
+    "key": "svenska_cupen_women",
+    "label": "Svenska Cupen Women (Sweden)"
+  },
+  {
+    "key": "s_o_paulo_youth_cup",
+    "label": "São Paulo Youth Cup (Brazil)"
+  },
+  {
+    "key": "ta_a_da_liga",
+    "label": "Taça da Liga (Portugal)"
+  },
+  {
+    "key": "tercera_division_rfef",
+    "label": "Tercera Division RFEF (Level 5, Spain)"
+  },
+  {
+    "key": "thai_champions_cup",
+    "label": "Thai Champions Cup"
+  },
+  {
+    "key": "thai_league",
+    "label": "Thai League"
+  },
+  {
+    "key": "thai_league_2",
+    "label": "Thai League 2"
+  },
+  {
+    "key": "thames_ironworks_cup_u13",
+    "label": "Thames Ironworks Cup U13"
+  },
+  {
+    "key": "the_creative_championship_cup",
+    "label": "The Creative Championship Cup (Nigeria)"
+  },
+  {
+    "key": "third_division",
+    "label": "Third Division (Level 4, UAE)"
+  },
+  {
+    "key": "toppserien",
+    "label": "Toppserien (Norway)"
+  },
+  {
+    "key": "torneo_federal_a",
+    "label": "Torneo Federal A (Third Division, not Buenos Aires)"
+  },
+  {
+    "key": "torneo_proyecci_n",
+    "label": "Torneo Proyección (Argentina)"
+  },
+  {
+    "key": "toto_cup_ligat_al",
+    "label": "Toto Cup Ligat Al (Israel)"
+  },
+  {
+    "key": "tournoi_europ_en_u21",
+    "label": "Tournoi Européen U21"
+  },
+  {
+    "key": "trofeo_de_campeones",
+    "label": "Trofeo de Campeones (Argentina)"
+  },
+  {
+    "key": "troph_e_des_champions",
+    "label": "Trophée des Champions (France)"
+  },
+  {
+    "key": "tweede_divisie",
+    "label": "Tweede Divisie (Level 3, Netherlands)"
+  },
+  {
+    "key": "u15_ligaen",
+    "label": "U15 Ligaen (Denmark)"
+  },
+  {
+    "key": "u17_bundesliga_cup",
+    "label": "U17 Bundesliga Cup (Germany)"
+  },
+  {
+    "key": "u17_division",
+    "label": "U17 Division (Level 2, Denmark)"
+  },
+  {
+    "key": "u17_league",
+    "label": "U17 League (Czech Republic)"
+  },
+  {
+    "key": "u17_league_43605",
+    "label": "U17 League (Serbia)"
+  },
+  {
+    "key": "u17_ligaen",
+    "label": "U17 Ligaen (Denmark)"
+  },
+  {
+    "key": "u18_premier_league",
+    "label": "U18 Premier League (England)"
+  },
+  {
+    "key": "u18_professional_development_league",
+    "label": "U18 Professional Development League (England)"
+  },
+  {
+    "key": "u19_bundesliga_cup",
+    "label": "U19 Bundesliga Cup (Germany)"
+  },
+  {
+    "key": "u19_division",
+    "label": "U19 Division (Level 2, Denmark)"
+  },
+  {
+    "key": "u19_league",
+    "label": "U19 League (Serbia)"
+  },
+  {
+    "key": "u19_league_1317",
+    "label": "U19 League (Ukraine)"
+  },
+  {
+    "key": "u19_ligaen",
+    "label": "U19 Ligaen (Denmark)"
+  },
+  {
+    "key": "u20_elite_league",
+    "label": "U20 Elite League"
+  },
+  {
+    "key": "uae_pro_league",
+    "label": "UAE Pro League"
+  },
+  {
+    "key": "uefa_champions_league",
+    "label": "UEFA Champions League"
+  },
+  {
+    "key": "uefa_development_tournament_u16",
+    "label": "UEFA Development Tournament U16"
+  },
+  {
+    "key": "uefa_europa_conference_league",
+    "label": "UEFA Europa Conference League"
+  },
+  {
+    "key": "uefa_europa_league",
+    "label": "UEFA Europa League"
+  },
+  {
+    "key": "uefa_european_championship",
+    "label": "UEFA European Championship"
+  },
+  {
+    "key": "uefa_super_cup",
+    "label": "UEFA Super Cup"
+  },
+  {
+    "key": "uefa_u17_championship",
+    "label": "UEFA U17 Championship"
+  },
+  {
+    "key": "uefa_u17_championship_qualification",
+    "label": "UEFA U17 Championship Qualification"
+  },
+  {
+    "key": "uefa_u17_championship_women",
+    "label": "UEFA U17 Championship Women"
+  },
+  {
+    "key": "uefa_u19_championship",
+    "label": "UEFA U19 Championship"
+  },
+  {
+    "key": "uefa_u19_championship_qualification",
+    "label": "UEFA U19 Championship Qualification"
+  },
+  {
+    "key": "uefa_u19_championship_women",
+    "label": "UEFA U19 Championship Women"
+  },
+  {
+    "key": "uefa_u21_championship",
+    "label": "UEFA U21 Championship"
+  },
+  {
+    "key": "uefa_u21_championship_qualification",
+    "label": "UEFA U21 Championship Qualification"
+  },
+  {
+    "key": "uefa_women_s_champions_league",
+    "label": "UEFA Women's Champions League"
+  },
+  {
+    "key": "uefa_women_s_championship",
+    "label": "UEFA Women's Championship"
+  },
+  {
+    "key": "uefa_world_cup_qualifiers",
+    "label": "UEFA World Cup Qualifiers"
+  },
+  {
+    "key": "uefa_youth_league",
+    "label": "UEFA Youth League"
+  },
+  {
+    "key": "usl_championship",
+    "label": "USL Championship (Level 2, USA)"
+  },
+  {
+    "key": "usl_jagermeister_cup",
+    "label": "USL Jagermeister Cup"
+  },
+  {
+    "key": "usl_league_1",
+    "label": "USL League 1 (Level 1, USA)"
+  },
+  {
+    "key": "usl_super_league",
+    "label": "USL Super League (USA)"
+  },
+  {
+    "key": "vbet_league",
+    "label": "VBET League (Level 1, Ukraine)"
+  },
+  {
+    "key": "veikkausliiga",
+    "label": "Veikkausliiga (Level 1, Findland)"
+  },
+  {
+    "key": "victoria_npl",
+    "label": "Victoria NPL (State League, Australia)"
+  },
+  {
+    "key": "victoria_npl_women",
+    "label": "Victoria NPL Women (State League, Australia)"
+  },
+  {
+    "key": "virsliga",
+    "label": "Virsliga (Level 1, Latvia)"
+  },
+  {
+    "key": "we_league",
+    "label": "WE League (Japan)"
+  },
+  {
+    "key": "we_league_cup",
+    "label": "WE League Cup (Japan)"
+  },
+  {
+    "key": "western_australia_npl",
+    "label": "Western Australia NPL (State League, Australia)"
+  },
+  {
+    "key": "western_australia_npl_women",
+    "label": "Western Australia NPL Women (State League, Australia)"
+  },
+  {
+    "key": "women_s_league_cup",
+    "label": "Women's League Cup (England)"
+  },
+  {
+    "key": "women_s_play_offs_1_2",
+    "label": "Women's Play-offs 1/2 (Norway)"
+  },
+  {
+    "key": "women_s_play_offs_1_2_43658",
+    "label": "Women's Play-offs 1/2 (Sweden)"
+  },
+  {
+    "key": "women_s_premiership_league_cup",
+    "label": "Women's Premiership League Cup (New Zealand)"
+  },
+  {
+    "key": "ykk_nen",
+    "label": "Ykkönen (Level 3, Finland)"
+  },
+  {
+    "key": "ykk_sliiga",
+    "label": "Ykkösliiga (Level 2, Finland)"
+  },
+  {
+    "key": "youth_alliance",
+    "label": "Youth Alliance (England)"
+  },
+  {
+    "key": "rvalsdeild_women",
+    "label": "Úrvalsdeild Women (Iceland)"
+  }
+]

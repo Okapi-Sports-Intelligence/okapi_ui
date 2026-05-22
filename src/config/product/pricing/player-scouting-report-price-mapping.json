@@ -1,0 +1,4700 @@
+{
+  "updated": [
+    {
+      "workbookLabel": "NCAA D1 College Cup",
+      "backendKey": "ncaa_d1_college_cup",
+      "backendLabel": "NCAA D1 College Cup",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43049",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big Ten",
+      "backendKey": "ncaa_d1_big_ten",
+      "backendLabel": "NCAA D1 Big Ten",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43208",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big East",
+      "backendKey": "ncaa_d1_big_east",
+      "backendLabel": "NCAA D1 Big East",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43206",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Atlantic Coast",
+      "backendKey": "ncaa_d1_atlantic_coast",
+      "backendLabel": "NCAA D1 Atlantic Coast",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43205",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Pacific 12",
+      "backendKey": "ncaa_d1_pacific_12",
+      "backendLabel": "NCAA D1 Pacific 12",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43219",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 West Coast",
+      "backendKey": "ncaa_d1_west_coast",
+      "backendLabel": "NCAA D1 West Coast",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43224",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 American Athletic",
+      "backendKey": "ncaa_d1_american_athletic",
+      "backendLabel": "NCAA D1 American Athletic",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43203",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Atlantic 10",
+      "backendKey": "ncaa_d1_atlantic_10",
+      "backendLabel": "NCAA D1 Atlantic 10",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43204",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Conference USA",
+      "backendKey": "ncaa_d1_conference_usa",
+      "backendLabel": "NCAA D1 Conference USA",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43211",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Missouri Valley",
+      "backendKey": "ncaa_d1_missouri_valley",
+      "backendLabel": "NCAA D1 Missouri Valley",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43217",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Sun Belt",
+      "backendKey": "ncaa_d1_sun_belt",
+      "backendLabel": "NCAA D1 Sun Belt",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43223",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Coastal Athletic Association",
+      "backendKey": "ncaa_d1_coastal_athletic_association",
+      "backendLabel": "NCAA D1 Coastal Athletic Association",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43210",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big West",
+      "backendKey": "ncaa_d1_big_west",
+      "backendLabel": "NCAA D1 Big West",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43209",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Ivy League",
+      "backendKey": "ncaa_d1_ivy_league",
+      "backendLabel": "NCAA D1 Ivy League",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43214",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Mid-American",
+      "backendKey": "ncaa_d1_mid_american",
+      "backendLabel": "NCAA D1 Mid-American",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43216",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Southern",
+      "backendKey": "ncaa_d1_southern",
+      "backendLabel": "NCAA D1 Southern",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43221",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Horizon League",
+      "backendKey": "ncaa_d1_horizon_league",
+      "backendLabel": "NCAA D1 Horizon League",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43212",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Summit League",
+      "backendKey": "ncaa_d1_summit_league",
+      "backendLabel": "NCAA D1 Summit League",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43222",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Patriot League",
+      "backendKey": "ncaa_d1_patriot_league",
+      "backendLabel": "NCAA D1 Patriot League",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43220",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Northeast",
+      "backendKey": "ncaa_d1_northeast",
+      "backendLabel": "NCAA D1 Northeast",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43218",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Ohio Valley",
+      "backendKey": "ncaa_d1_ohio_valley",
+      "backendLabel": "NCAA D1 Ohio Valley",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43559",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 America East",
+      "backendKey": "ncaa_d1_america_east",
+      "backendLabel": "NCAA D1 America East",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43202",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 ASUN",
+      "backendKey": "ncaa_d1_asun",
+      "backendLabel": "NCAA D1 ASUN",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43201",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big South",
+      "backendKey": "ncaa_d1_big_south",
+      "backendLabel": "NCAA D1 Big South",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43207",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Western Athletic",
+      "backendKey": "ncaa_d1_western_athletic",
+      "backendLabel": "NCAA D1 Western Athletic",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43225",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Non-conference matches",
+      "backendKey": "ncaa_d1_non_conference_matches",
+      "backendLabel": "NCAA D1 Non-conference matches",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43226",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Championship",
+      "backendKey": "ncaa_d2_championship",
+      "backendLabel": "NCAA D2 Championship",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43648",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Lone Star Conference",
+      "backendKey": "ncaa_d2_lone_star_conference",
+      "backendLabel": "NCAA D2 Lone Star Conference",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43598",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Sunshine State Conference",
+      "backendKey": "ncaa_d2_sunshine_state_conference",
+      "backendLabel": "NCAA D2 Sunshine State Conference",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43574",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 South Atlantic Conference",
+      "backendKey": "ncaa_d2_south_atlantic_conference",
+      "backendLabel": "NCAA D2 South Atlantic Conference",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43583",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Northeast-10 Conference",
+      "backendKey": "ncaa_d2_northeast_10_conference",
+      "backendLabel": "NCAA D2 Northeast-10 Conference",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43537",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Great American Conference",
+      "backendKey": "ncaa_d2_great_american_conference",
+      "backendLabel": "NCAA D2 Great American Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43715",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Peach Belt Conference",
+      "backendKey": "ncaa_d2_peach_belt_conference",
+      "backendLabel": "NCAA D2 Peach Belt Conference",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43714",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Conference Carolinas",
+      "backendKey": "ncaa_d2_conference_carolinas",
+      "backendLabel": "NCAA D2 Conference Carolinas",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43539",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Mountain East Conference",
+      "backendKey": "ncaa_d2_mountain_east_conference",
+      "backendLabel": "NCAA D2 Mountain East Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43536",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Pacific West Conference",
+      "backendKey": "ncaa_d2_pacific_west_conference",
+      "backendLabel": "NCAA D2 Pacific West Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43578",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Non-conference matches",
+      "backendKey": "ncaa_d2_non_conference_matches",
+      "backendLabel": "NCAA D2 Non-conference matches",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43531",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Championship",
+      "backendKey": "ncaa_d3_championship",
+      "backendLabel": "NCAA D3 Championship",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43650",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 University Athletic Association",
+      "backendKey": "ncaa_d3_university_athletic_association",
+      "backendLabel": "NCAA D3 University Athletic Association",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43552",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Centennial Conference",
+      "backendKey": "ncaa_d3_centennial_conference",
+      "backendLabel": "NCAA D3 Centennial Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43711",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 North Atlantic Conference",
+      "backendKey": "ncaa_d3_north_atlantic_conference",
+      "backendLabel": "NCAA D3 North Atlantic Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43573",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Non-conference matches",
+      "backendKey": "ncaa_d3_non_conference_matches",
+      "backendLabel": "NCAA D3 Non-conference matches",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43525",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Championship",
+      "backendKey": "naia_championship",
+      "backendLabel": "NAIA Championship",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43655",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Mid-South Conference",
+      "backendKey": "naia_mid_south_conference",
+      "backendLabel": "NAIA Mid-South Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43608",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA The Sun Conference",
+      "backendKey": "naia_the_sun_conference",
+      "backendLabel": "NAIA The Sun Conference",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43726",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Non-conference matches",
+      "backendKey": "naia_non_conference_matches",
+      "backendLabel": "NAIA Non-conference matches",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43564",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NJCAA Non-conference matches",
+      "backendKey": "njcaa_non_conference_matches",
+      "backendLabel": "NJCAA Non-conference matches",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Men)",
+      "wyscoutId": "43579",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "FIFA U17 World Cup",
+      "backendKey": "fifa_u17_world_cup",
+      "backendLabel": "FIFA U17 World Cup",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "21",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U17 Championship",
+      "backendKey": "uefa_u17_championship",
+      "backendLabel": "UEFA U17 Championship",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "112",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U17 Championship Qualification",
+      "backendKey": "uefa_u17_championship_qualification",
+      "backendLabel": "UEFA U17 Championship Qualification",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43339",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U19 Championship",
+      "backendKey": "uefa_u19_championship",
+      "backendLabel": "UEFA U19 Championship",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "114",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U19 Championship Qualification",
+      "backendKey": "uefa_u19_championship_qualification",
+      "backendLabel": "UEFA U19 Championship Qualification",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43342",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U21 Championship",
+      "backendKey": "uefa_u21_championship",
+      "backendLabel": "UEFA U21 Championship",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "116",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U21 Championship Qualification",
+      "backendKey": "uefa_u21_championship_qualification",
+      "backendLabel": "UEFA U21 Championship Qualification",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43303",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL U15",
+      "backendKey": "conmebol_u15",
+      "backendLabel": "CONMEBOL U15",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1163",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL U17",
+      "backendKey": "conmebol_u17",
+      "backendLabel": "CONMEBOL U17",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "86",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL U20",
+      "backendKey": "conmebol_u20",
+      "backendLabel": "CONMEBOL U20",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "88",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL Pre-Olympic Tournament",
+      "backendKey": "conmebol_pre_olympic_tournament",
+      "backendLabel": "CONMEBOL Pre-Olympic Tournament",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43185",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Youth League",
+      "backendKey": "uefa_youth_league",
+      "backendLabel": "UEFA Youth League",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1442",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL Libertadores U20",
+      "backendKey": "conmebol_libertadores_u20",
+      "backendLabel": "CONMEBOL Libertadores U20",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1251",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League International Cup",
+      "backendKey": "premier_league_international_cup",
+      "backendLabel": "Premier League International Cup",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1723",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League 2 (England)",
+      "backendKey": "premier_league_2",
+      "backendLabel": "Premier League 2 (England)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "42969",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Professional Development League (England)",
+      "backendKey": "professional_development_league",
+      "backendLabel": "Professional Development League (England)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1560",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U18 Premier League (England)",
+      "backendKey": "u18_premier_league",
+      "backendLabel": "U18 Premier League (England)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "363",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Campionato Primavera 1 (Italy)",
+      "backendKey": "campionato_primavera_1",
+      "backendLabel": "Campionato Primavera 1 (Italy)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "516",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super Cup Primavera (Italy)",
+      "backendKey": "super_cup_primavera",
+      "backendLabel": "Super Cup Primavera (Italy)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1471",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Coppa Italia Primavera (Italy)",
+      "backendKey": "coppa_italia_primavera",
+      "backendLabel": "Coppa Italia Primavera (Italy)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1182",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "S\u00e3o Paulo Youth Cup (Brazil)",
+      "backendKey": "s_o_paulo_youth_cup",
+      "backendLabel": "S\u00e3o Paulo Youth Cup (Brazil)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1319",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CBF Brasileiro U20 (Brazil)",
+      "backendKey": "cbf_brasileiro_u20",
+      "backendLabel": "CBF Brasileiro U20 (Brazil)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1805",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Copa do Brasil U20 (Brazil)",
+      "backendKey": "copa_do_brasil_u20",
+      "backendLabel": "Copa do Brasil U20 (Brazil)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1302",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Revela\u00e7\u00e3o Sub 23 (Portugal)",
+      "backendKey": "liga_revela_o_sub_23",
+      "backendLabel": "Liga Revela\u00e7\u00e3o Sub 23 (Portugal)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43096",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "MLS Next Pro (USA)",
+      "backendKey": "mls_next_pro",
+      "backendLabel": "MLS Next Pro (USA)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43383",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U20 Elite League",
+      "backendKey": "u20_elite_league",
+      "backendLabel": "U20 Elite League",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43101",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF U20",
+      "backendKey": "concacaf_u20",
+      "backendLabel": "CONCACAF U20",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "68",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF U17",
+      "backendKey": "concacaf_u17",
+      "backendLabel": "CONCACAF U17",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "67",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U19 Bundesliga Cup (Germany)",
+      "backendKey": "u19_bundesliga_cup",
+      "backendLabel": "U19 Bundesliga Cup (Germany)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43438",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U17 Bundesliga Cup (Germany)",
+      "backendKey": "u17_bundesliga_cup",
+      "backendLabel": "U17 Bundesliga Cup (Germany)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43560",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Pro League U21 (Belgium)",
+      "backendKey": "pro_league_u21",
+      "backendLabel": "Pro League U21 (Belgium)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1523",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Elite 1 Under 18 (Belgium)",
+      "backendKey": "elite_1_under_18",
+      "backendLabel": "Elite 1 Under 18 (Belgium)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43174",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Torneo Proyecci\u00f3n (Argentina)",
+      "backendKey": "torneo_proyecci_n",
+      "backendLabel": "Torneo Proyecci\u00f3n (Argentina)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1601",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Copa Proyecci\u00f3n (Argentina)",
+      "backendKey": "copa_proyecci_n",
+      "backendLabel": "Copa Proyecci\u00f3n (Argentina)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43678",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista U20 (Brazil)",
+      "backendKey": "paulista_u20",
+      "backendLabel": "Paulista U20 (Brazil)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "3312",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Brasileiro U17 (Brazil)",
+      "backendKey": "brasileiro_u17",
+      "backendLabel": "Brasileiro U17 (Brazil)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1395",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Copa do Brasil U17 (Brazil)",
+      "backendKey": "copa_do_brasil_u17",
+      "backendLabel": "Copa do Brasil U17 (Brazil)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1611",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. HNL Juniori (Croatia U19)",
+      "backendKey": "1_hnl_juniori",
+      "backendLabel": "1. HNL Juniori (Croatia U19)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1359",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Prva HNL Kadeti U17, Croatia",
+      "backendKey": "prva_hnl_kadeti_u17",
+      "backendLabel": "Prva HNL Kadeti U17, Croatia",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43298",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U19 Ligaen (Denmark)",
+      "backendKey": "u19_ligaen",
+      "backendLabel": "U19 Ligaen (Denmark)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1305",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U19 Division (Level 2, Denmark)",
+      "backendKey": "u19_division",
+      "backendLabel": "U19 Division (Level 2, Denmark)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "3134",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U17 Ligaen (Denmark)",
+      "backendKey": "u17_ligaen",
+      "backendLabel": "U17 Ligaen (Denmark)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1570",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U17 Division (Level 2, Denmark)",
+      "backendKey": "u17_division",
+      "backendLabel": "U17 Division (Level 2, Denmark)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "3135",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U15 Ligaen (Denmark)",
+      "backendKey": "u15_ligaen",
+      "backendLabel": "U15 Ligaen (Denmark)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43149",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Liga U19 (Czech Republic)",
+      "backendKey": "1_liga_u19",
+      "backendLabel": "1. Liga U19 (Czech Republic)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1303",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U17 League (Czech Republic)",
+      "backendKey": "u17_league",
+      "backendLabel": "U17 League (Czech Republic)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43466",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "MLSZ U19 Orsz\u00e1gos Kiemelt (Hungary U19)",
+      "backendKey": "mlsz_u19_orsz_gos_kiemelt",
+      "backendLabel": "MLSZ U19 Orsz\u00e1gos Kiemelt (Hungary U19)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1402",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Nasjonal Regional G19 (Norway U19)",
+      "backendKey": "nasjonal_regional_g19",
+      "backendLabel": "Nasjonal Regional G19 (Norway U19)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43693",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "OBOS Nasjonal G17 - 1st Division (Norway U17)",
+      "backendKey": "obos_nasjonal_g17_1st_division",
+      "backendLabel": "OBOS Nasjonal G17 - 1st Division (Norway U17)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43691",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "OBOS Nasjonal G17 - 2nd Division (Norway U17)",
+      "backendKey": "obos_nasjonal_g17_2nd_division",
+      "backendLabel": "OBOS Nasjonal G17 - 2nd Division (Norway U17)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43694",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Tineret (Romania U19)",
+      "backendKey": "liga_tineret",
+      "backendLabel": "Liga Tineret (Romania U19)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43673",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Supercup Liga de Tineret (Romania Youth Cup U19)",
+      "backendKey": "supercup_liga_de_tineret",
+      "backendLabel": "Supercup Liga de Tineret (Romania Youth Cup U19)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43702",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Cupa de Tineret (Romania Youth Cup U19)",
+      "backendKey": "cupa_de_tineret",
+      "backendLabel": "Cupa de Tineret (Romania Youth Cup U19)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43674",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Elitelor U17 (Romania)",
+      "backendKey": "liga_elitelor_u17",
+      "backendLabel": "Liga Elitelor U17 (Romania)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43675",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Supercup Liga Elitelor U17 (Romania)",
+      "backendKey": "supercup_liga_elitelor_u17",
+      "backendLabel": "Supercup Liga Elitelor U17 (Romania)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43703",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Cupa Elitelor U17 (Romania)",
+      "backendKey": "cupa_elitelor_u17",
+      "backendLabel": "Cupa Elitelor U17 (Romania)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43676",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Allsvenskan U19 (Sweden)",
+      "backendKey": "allsvenskan_u19",
+      "backendLabel": "Allsvenskan U19 (Sweden)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "813",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Cupen U19 (Sweden)",
+      "backendKey": "liga_cupen_u19",
+      "backendLabel": "Liga Cupen U19 (Sweden)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43760",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superettan U19 (Level 2, Sweden)",
+      "backendKey": "superettan_u19",
+      "backendLabel": "Superettan U19 (Level 2, Sweden)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43764",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Allsvenskan U17 (Sweden)",
+      "backendKey": "allsvenskan_u17",
+      "backendLabel": "Allsvenskan U17 (Sweden)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43074",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Cupen U17 (Sweden)",
+      "backendKey": "liga_cupen_u17",
+      "backendLabel": "Liga Cupen U17 (Sweden)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43761",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Allsvenskan U16 (Sweden)",
+      "backendKey": "allsvenskan_u16",
+      "backendLabel": "Allsvenskan U16 (Sweden)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43765",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Cupen U16 (Sweden)",
+      "backendKey": "liga_cupen_u16",
+      "backendLabel": "Liga Cupen U16 (Sweden)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43762",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U19 League (Ukraine)",
+      "backendKey": "u19_league_1317",
+      "backendLabel": "U19 League (Ukraine)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1317",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U19 League (Serbia)",
+      "backendKey": "u19_league",
+      "backendLabel": "U19 League (Serbia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43502",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U17 League (Serbia)",
+      "backendKey": "u17_league_43605",
+      "backendLabel": "U17 League (Serbia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43605",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "U18 Professional Development League (England)",
+      "backendKey": "u18_professional_development_league",
+      "backendLabel": "U18 Professional Development League (England)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1686",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "COTIF Tournament",
+      "backendKey": "cotif_tournament",
+      "backendLabel": "COTIF Tournament",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "3133",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CEE Cup (U19)",
+      "backendKey": "cee_cup",
+      "backendLabel": "CEE Cup (U19)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1469",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Algarve U19 Tournament",
+      "backendKey": "algarve_u19_tournament",
+      "backendLabel": "Algarve U19 Tournament",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43437",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Tournoi Europ\u00e9en U21",
+      "backendKey": "tournoi_europ_en_u21",
+      "backendLabel": "Tournoi Europ\u00e9en U21",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43323",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Oberndorf Tournament U19",
+      "backendKey": "oberndorf_tournament_u19",
+      "backendLabel": "Oberndorf Tournament U19",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43139",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC U20 Asian Cup Qualification",
+      "backendKey": "afc_u20_asian_cup_qualification",
+      "backendLabel": "AFC U20 Asian Cup Qualification",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43429",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC U23 Asian Cup Qualification",
+      "backendKey": "afc_u23_asian_cup_qualification",
+      "backendLabel": "AFC U23 Asian Cup Qualification",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43345",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC U19 Championship",
+      "backendKey": "afc_u19_championship",
+      "backendLabel": "AFC U19 Championship",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "35",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Development Tournament U16",
+      "backendKey": "uefa_development_tournament_u16",
+      "backendLabel": "UEFA Development Tournament U16",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1763",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Youth Alliance (England)",
+      "backendKey": "youth_alliance",
+      "backendLabel": "Youth Alliance (England)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1687",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "P17 SM-karsintasarja (Finland U17)",
+      "backendKey": "p17_sm_karsintasarja",
+      "backendLabel": "P17 SM-karsintasarja (Finland U17)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43758",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Freedom QJ League U18 (Kazakhstan)",
+      "backendKey": "freedom_qj_league_u18",
+      "backendLabel": "Freedom QJ League U18 (Kazakhstan)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43489",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Freedom QJ League U17 (Kazakhstan)",
+      "backendKey": "freedom_qj_league_u17",
+      "backendLabel": "Freedom QJ League U17 (Kazakhstan)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43688",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Freedom QJ League U16 (Kazakhstan)",
+      "backendKey": "freedom_qj_league_u16",
+      "backendLabel": "Freedom QJ League U16 (Kazakhstan)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43775",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Hudl Independent Schools League (England)",
+      "backendKey": "hudl_independent_schools_league",
+      "backendLabel": "Hudl Independent Schools League (England)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43631",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Bican Cup U15",
+      "backendKey": "bican_cup_u15",
+      "backendLabel": "Bican Cup U15",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43727",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Football Federations Cup U16",
+      "backendKey": "football_federations_cup_u16",
+      "backendLabel": "Football Federations Cup U16",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43354",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Creative Championship (Nigeria)",
+      "backendKey": "creative_championship",
+      "backendLabel": "Creative Championship (Nigeria)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43636",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "N-Youth League Cup (Nigeria)",
+      "backendKey": "n_youth_league_cup",
+      "backendLabel": "N-Youth League Cup (Nigeria)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43731",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "The Creative Championship Cup (Nigeria)",
+      "backendKey": "the_creative_championship_cup",
+      "backendLabel": "The Creative Championship Cup (Nigeria)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43645",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Thames Ironworks Cup U13",
+      "backendKey": "thames_ironworks_cup_u13",
+      "backendLabel": "Thames Ironworks Cup U13",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Youth",
+      "wyscoutId": "43777",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "La Liga",
+      "backendKey": "la_liga",
+      "backendLabel": "La Liga",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "795",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Segunda Divisi\u00f3n (Level 2, Spain)",
+      "backendKey": "segunda_divisi_n",
+      "backendLabel": "Segunda Divisi\u00f3n (Level 2, Spain)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "797",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Division RFEF (Level 3, Spain)",
+      "backendKey": "primera_division_rfef",
+      "backendLabel": "Primera Division RFEF (Level 3, Spain)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "43327",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Segunda Division RFEF (Level 4, Spain)",
+      "backendKey": "segunda_division_rfef",
+      "backendLabel": "Segunda Division RFEF (Level 4, Spain)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "43338",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Tercera Division RFEF (Level 5, Spain)",
+      "backendKey": "tercera_division_rfef",
+      "backendLabel": "Tercera Division RFEF (Level 5, Spain)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "800",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie A (Italy)",
+      "backendKey": "serie_a_524",
+      "backendLabel": "Serie A (Italy)",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "524",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie B (Italy)",
+      "backendKey": "serie_b_527",
+      "backendLabel": "Serie B (Italy)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "527",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie C (Italy)",
+      "backendKey": "serie_c_520",
+      "backendLabel": "Serie C (Italy)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "520",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie D (Italy)",
+      "backendKey": "serie_d",
+      "backendLabel": "Serie D (Italy)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "528",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Segunda Liga (Level 2, Portugal)",
+      "backendKey": "segunda_liga",
+      "backendLabel": "Segunda Liga (Level 2, Portugal)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "705",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga 3 (Level 3, Portugal)",
+      "backendKey": "liga_3",
+      "backendLabel": "Liga 3 (Level 3, Portugal)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "43324",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superleague (Level 1, Croatia)",
+      "backendKey": "superleague",
+      "backendLabel": "Superleague (Level 1, Croatia)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "302",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "First NL (Level 2, Croatia)",
+      "backendKey": "first_nl",
+      "backendLabel": "First NL (Level 2, Croatia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "303",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Second NL (Level 3, Croatia)",
+      "backendKey": "second_nl",
+      "backendLabel": "Second NL (Level 3, Croatia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "304",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Stoiximan Super League (Greece)",
+      "backendKey": "stoiximan_super_league",
+      "backendLabel": "Stoiximan Super League (Greece)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "448",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super League 2 (Greece)",
+      "backendKey": "super_league_2",
+      "backendLabel": "Super League 2 (Greece)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "43172",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Division (Cyprus)",
+      "backendKey": "1_division",
+      "backendLabel": "1. Division (Cyprus)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "310",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. Division (Cyprus)",
+      "backendKey": "2_division",
+      "backendLabel": "2. Division (Cyprus)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "311",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. SNL (Slovenia)",
+      "backendKey": "1_snl",
+      "backendLabel": "1. SNL (Slovenia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "776",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. SNL (Slovenia)",
+      "backendKey": "2_snl",
+      "backendLabel": "2. SNL (Slovenia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "778",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "First League (Montenegro)",
+      "backendKey": "first_league_907",
+      "backendLabel": "First League (Montenegro)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "907",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Second League (Montenegro)",
+      "backendKey": "second_league",
+      "backendLabel": "Second League (Montenegro)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "909",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Abissnet Superiore (Albania)",
+      "backendKey": "abissnet_superiore",
+      "backendLabel": "Abissnet Superiore (Albania)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "127",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1a Divisi\u00f3 (Andorra)",
+      "backendKey": "1a_divisi",
+      "backendLabel": "1a Divisi\u00f3 (Andorra)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "132",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Russia)",
+      "backendKey": "premier_league_729",
+      "backendLabel": "Premier League (Russia)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "729",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ekstraklasa (Level 1, Poland)",
+      "backendKey": "ekstraklasa",
+      "backendLabel": "Ekstraklasa (Level 1, Poland)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "692",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "I Liga (Level 2, Poland)",
+      "backendKey": "i_liga",
+      "backendLabel": "I Liga (Level 2, Poland)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "694",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "II Liga (Level 3, Poland)",
+      "backendKey": "ii_liga",
+      "backendLabel": "II Liga (Level 3, Poland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "696",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Chance Liga (Level 1, Czech Republic)",
+      "backendKey": "chance_liga",
+      "backendLabel": "Chance Liga (Level 1, Czech Repbulic)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "323",
+      "mappingSource": "manual"
+    },
+    {
+      "workbookLabel": "Chance National Liga (Level 2, Czech Republic)",
+      "backendKey": "chance_national_liga",
+      "backendLabel": "Chance National Liga (Level 2, Czech Republic)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "317",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superliga (Level 1, Romania)",
+      "backendKey": "superliga_719",
+      "backendLabel": "Superliga (Level 1, Romania)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "719",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga II (Level 2, Romania)",
+      "backendKey": "liga_ii",
+      "backendLabel": "Liga II (Level 2, Romania)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "720",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NB I (Hungary)",
+      "backendKey": "nb_i",
+      "backendLabel": "NB I (Hungary)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "465",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NB II (Hungary)",
+      "backendKey": "nb_ii",
+      "backendLabel": "NB II (Hungary)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "466",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "VBET League (Level 1, Ukraine)",
+      "backendKey": "vbet_league",
+      "backendLabel": "VBET League (Level 1, Ukraine)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "859",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Druha Liga (Level 2, Ukraine)",
+      "backendKey": "druha_liga",
+      "backendLabel": "Druha Liga (Level 2, Ukraine)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "857",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Persha Liga (Level 3, Ukraine)",
+      "backendKey": "persha_liga",
+      "backendLabel": "Persha Liga (Level 3, Ukraine)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "858",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Nik\u00e9 Liga (Level 1, Slovakia)",
+      "backendKey": "nik_liga",
+      "backendLabel": "Nik\u00e9 Liga (Level 1, Slovakia)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "775",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. liga (Level 2, Slovakia)",
+      "backendKey": "2_liga_770",
+      "backendLabel": "2. liga (Level 2, Slovakia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "770",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super Liga (Level 1, Serbia)",
+      "backendKey": "super_liga_905",
+      "backendLabel": "Super Liga (Level 1, Serbia)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "905",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Prva Liga (Level 2, Serbia)",
+      "backendKey": "prva_liga",
+      "backendLabel": "Prva Liga (Level 2, Serbia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "902",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "IDBank Premier League (Armenia)",
+      "backendKey": "idbank_premier_league",
+      "backendLabel": "IDBank Premier League (Level 1, Armenia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "149",
+      "mappingSource": "manual"
+    },
+    {
+      "workbookLabel": "Veikkausliiga (Level 1, Finland)",
+      "backendKey": "veikkausliiga",
+      "backendLabel": "Veikkausliiga (Level 1, Findland)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "400",
+      "mappingSource": "manual"
+    },
+    {
+      "workbookLabel": "Ykk\u00f6sliiga (Level 2, Finland)",
+      "backendKey": "ykk_sliiga",
+      "backendLabel": "Ykk\u00f6sliiga (Level 2, Finland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "401",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ykk\u00f6nen (Level 3, Finland)",
+      "backendKey": "ykk_nen",
+      "backendLabel": "Ykk\u00f6nen (Level 3, Finland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "43683",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Virsliga (Level 1, Latvia)",
+      "backendKey": "virsliga",
+      "backendLabel": "Virsliga (Level 1, Latvia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "566",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Liga (Level 2, Latvia)",
+      "backendKey": "1_liga",
+      "backendLabel": "1. Liga (Level 2, Latvia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "562",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super Liga (Moldova)",
+      "backendKey": "super_liga",
+      "backendLabel": "Super Liga (Moldova)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "621",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "A Lyga (Level 1, Lithuania)",
+      "backendKey": "a_lyga",
+      "backendLabel": "A Lyga (Level 1, Lithuania)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "576",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1 Lyga (Level 2, Lithuania)",
+      "backendKey": "1_lyga",
+      "backendLabel": "1 Lyga (Level 2, Lithuania)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "575",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "A.LeCoq Premium Liiga (Level 1, Estonia)",
+      "backendKey": "a_lecoq_premium_liiga",
+      "backendLabel": "A.LeCoq Premium Liiga (Level 1, Estonia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "374",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Esiliiga A (Level 2, Estonia)",
+      "backendKey": "esiliiga_a",
+      "backendLabel": "Esiliiga A (Level 2, Estonia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "371",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "First League (Level 2, Armenia)",
+      "backendKey": "first_league",
+      "backendLabel": "First League (Level 2, Armenia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Eastern Europe",
+      "wyscoutId": "148",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Champions League",
+      "backendKey": "uefa_champions_league",
+      "backendLabel": "UEFA Champions League",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "108",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Europa League",
+      "backendKey": "uefa_europa_league",
+      "backendLabel": "UEFA Europa League",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "109",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Europa Conference League",
+      "backendKey": "uefa_europa_conference_league",
+      "backendLabel": "UEFA Europa Conference League",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "43318",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA World Cup Qualifiers",
+      "backendKey": "uefa_world_cup_qualifiers",
+      "backendLabel": "UEFA World Cup Qualifiers",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "119",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA European Championship",
+      "backendKey": "uefa_european_championship",
+      "backendLabel": "UEFA European Championship",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "102",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League",
+      "backendKey": "premier_league_364",
+      "backendLabel": "Premier League",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "364",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Championship (England)",
+      "backendKey": "championship",
+      "backendLabel": "Championship (England)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "346",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "League One (Level 3, England)",
+      "backendKey": "league_one",
+      "backendLabel": "League One (Level 3, England)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "358",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "League Two (Level 4, England)",
+      "backendKey": "league_two",
+      "backendLabel": "League Two (Level 4, England)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "359",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "National League (Level 5, England)",
+      "backendKey": "national_league",
+      "backendLabel": "National League (Level 5, England)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "351",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "National League N / S (Level 6, England)",
+      "backendKey": "national_league_n_s",
+      "backendLabel": "National League N / S (Level 6, England)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "350",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Non League Premier (Level 7, England)",
+      "backendKey": "non_league_premier",
+      "backendLabel": "Non League Premier (Level 7, England)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "361",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Non League Div One (Level 8, England)",
+      "backendKey": "non_league_div_one",
+      "backendLabel": "Non League Div One (Level 8, England)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "360",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Bundesliga (Germany)",
+      "backendKey": "bundesliga_426",
+      "backendLabel": "Bundesliga (Germany)",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "426",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. Bundesliga (Germany)",
+      "backendKey": "2_bundesliga",
+      "backendLabel": "2. Bundesliga (Germany)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "423",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "3. Liga (Level 3, Germany)",
+      "backendKey": "3_liga",
+      "backendLabel": "3. Liga (Level 3, Germany)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "425",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Regionalliga (Level 4, Germany)",
+      "backendKey": "regionalliga",
+      "backendLabel": "Regionalliga (Level 4, Germany)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "435",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Kreisklasse (State Leagues, Germany)",
+      "backendKey": "1_kreisklasse",
+      "backendLabel": "1. Kreisklasse (State Leagues, Germany)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "43529",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ligue 1",
+      "backendKey": "ligue_1",
+      "backendLabel": "Ligue 1",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "412",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ligue 2 (France)",
+      "backendKey": "ligue_2",
+      "backendLabel": "Ligue 2 (France)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "413",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "National 1 (Level 3, France)",
+      "backendKey": "national_1",
+      "backendLabel": "National 1 (Level 3, France)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "414",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Pro League (Belgium)",
+      "backendKey": "pro_league",
+      "backendLabel": "Pro League (Belgium)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "198",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Challenger Pro League (Belgium)",
+      "backendKey": "challenger_pro_league",
+      "backendLabel": "Challenger Pro League (Belgium)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "202",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Eredivisie",
+      "backendKey": "eredivisie",
+      "backendLabel": "Eredivisie",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "635",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Eerste Divisie (Level 2, Netherlands)",
+      "backendKey": "eerste_divisie",
+      "backendLabel": "Eerste Divisie (Level 2, Netherlands)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "633",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Tweede Divisie (Level 3, Netherlands)",
+      "backendKey": "tweede_divisie",
+      "backendLabel": "Tweede Divisie (Level 3, Netherlands)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "3131",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1st Division (Level 2, Denmark)",
+      "backendKey": "1st_division",
+      "backendLabel": "1st Division (Level 2, Denmark)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "328",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superliga (Level 1, Denmark)",
+      "backendKey": "superliga",
+      "backendLabel": "Superliga (Level 1, Denmark)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "335",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2nd Division (Level 3, Denmark)",
+      "backendKey": "2nd_division",
+      "backendLabel": "2nd Division (Level 3, Denmark)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "329",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "3. Division (Level 4, Denmark)",
+      "backendKey": "3_division",
+      "backendLabel": "3. Division (Level 4, Denmark)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "43319",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Eliteserien (Level 1, Norway)",
+      "backendKey": "eliteserien",
+      "backendLabel": "Eliteserien (Level 1, Norway)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "669",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Obos Ligaen (Level 2, Norway)",
+      "backendKey": "obos_ligaen",
+      "backendLabel": "Obos Ligaen (Level 2, Norway)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "665",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. Division (Level 3, Norway)",
+      "backendKey": "2_division_667",
+      "backendLabel": "2. Division (Level 3, Norway)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "667",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Allsvenskan (Level 1, Sweden)",
+      "backendKey": "allsvenskan",
+      "backendLabel": "Allsvenskan (Level 1, Sweden)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "808",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superettan (Level 2, Sweden)",
+      "backendKey": "superettan",
+      "backendLabel": "Superettan (Level 2, Sweden)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "818",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ettan (Level 3, Sweden)",
+      "backendKey": "ettan",
+      "backendLabel": "Ettan (Level 3, Sweden)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "810",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super League (Level 1, Switzerland)",
+      "backendKey": "super_league_830",
+      "backendLabel": "Super League (Level 1, Switzerland)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "830",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Challenge League (Level 2, Switzerland)",
+      "backendKey": "challenge_league",
+      "backendLabel": "Challenge League (Level 2, Switzerland)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "823",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Liga Promotion (Level 3, Switzerland)",
+      "backendKey": "1_liga_promotion",
+      "backendLabel": "1. Liga Promotion (Level 3, Switzerland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "1257",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Liga Classic (Level 4, Switzerland)",
+      "backendKey": "1_liga_classic",
+      "backendLabel": "1. Liga Classic (Level 4, Switzerland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "821",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premiership (Scotland)",
+      "backendKey": "premiership_750",
+      "backendLabel": "Premiership (Scotland)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "750",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Championship (Level 2, Scotland)",
+      "backendKey": "championship_744",
+      "backendLabel": "Championship (Level 2, Scotland)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "744",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "League One (Level 3, Scotland)",
+      "backendKey": "league_one_752",
+      "backendLabel": "League One (Level 3, Scotland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "752",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "League Two (Level 4, Scotland)",
+      "backendKey": "league_two_757",
+      "backendLabel": "League Two (Level 4, Scotland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "757",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Bundesliga (Austria)",
+      "backendKey": "bundesliga",
+      "backendLabel": "Bundesliga (Austria)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "168",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. Liga (Level 2, Austria)",
+      "backendKey": "2_liga",
+      "backendLabel": "2. Liga (Level 2, Austria)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "166",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premiership (Northern Ireland)",
+      "backendKey": "premiership",
+      "backendLabel": "Premiership (Northern Ireland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "664",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Besta-deild karla (Level 1, Iceland)",
+      "backendKey": "besta_deild_karla",
+      "backendLabel": "Besta-deild karla (Level 1, Iceland)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "480",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Deild (Level 2, Iceland)",
+      "backendKey": "1_deild",
+      "backendLabel": "1. Deild (Level 2, Iceland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "473",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Meistaradeildin (Faroe Islands)",
+      "backendKey": "meistaradeildin",
+      "backendLabel": "Meistaradeildin (Faroe Islands)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "386",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC Champions League Elite",
+      "backendKey": "afc_champions_league_elite",
+      "backendLabel": "AFC Champions League Elite",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "31",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC Champions League Two",
+      "backendKey": "afc_champions_league_two",
+      "backendLabel": "AFC Champions League Two",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "32",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC Asian Cup",
+      "backendKey": "afc_asian_cup",
+      "backendLabel": "AFC Asian Cup",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "37",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC World Cup Qualifiers",
+      "backendKey": "afc_world_cup_qualifiers",
+      "backendLabel": "AFC World Cup Qualifiers",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "47",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "OFC Champions League (Oceania)",
+      "backendKey": "ofc_champions_league",
+      "backendLabel": "OFC Champions League (Oceania)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "92",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "OFC Nations Cup (Oceania)",
+      "backendKey": "ofc_nations_cup",
+      "backendLabel": "OFC Nations Cup (Oceania)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "1255",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "OFC World Cup Qualifiers (Oceania)",
+      "backendKey": "ofc_world_cup_qualifiers",
+      "backendLabel": "OFC World Cup Qualifiers (Oceania)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "96",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "J1 League (Level 1, Japan)",
+      "backendKey": "j1_league",
+      "backendLabel": "J1 League (Level 1, Japan)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "534",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "J2 League (Level 2, Japan)",
+      "backendKey": "j2_league",
+      "backendLabel": "J2 League (Level 2, Japan)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "535",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "J3 League (Level 3, Japan)",
+      "backendKey": "j3_league",
+      "backendLabel": "J3 League (Level 3, Japan)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "1502",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "K League 1 (South Korea)",
+      "backendKey": "k_league_1",
+      "backendLabel": "K League 1 (South Korea)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "551",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "K League 2 (South Korea)",
+      "backendKey": "k_league_2",
+      "backendLabel": "K League 2 (South Korea)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "1408",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "A-League (Australia)",
+      "backendKey": "a_league",
+      "backendLabel": "A-League (Australia)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "152",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "New South Wales NPL (State League, Australia)",
+      "backendKey": "new_south_wales_npl",
+      "backendLabel": "New South Wales NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "155",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Queensland NPL (State League, Australia)",
+      "backendKey": "queensland_npl",
+      "backendLabel": "Queensland NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "160",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Queensland Premier League (State League, Australia)",
+      "backendKey": "queensland_premier_league",
+      "backendLabel": "Queensland Premier League (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "43455",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Capital Territory NPL (State League, Australia)",
+      "backendKey": "capital_territory_npl",
+      "backendLabel": "Capital Territory NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "154",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "South Australia NPL (State League, Australia)",
+      "backendKey": "south_australia_npl",
+      "backendLabel": "South Australia NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "161",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Victoria NPL (State League, Australia)",
+      "backendKey": "victoria_npl",
+      "backendLabel": "Victoria NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "163",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Western Australia NPL (State League, Australia)",
+      "backendKey": "western_australia_npl",
+      "backendLabel": "Western Australia NPL (State League, Australia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "165",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "National League (New Zealand)",
+      "backendKey": "national_league_43435",
+      "backendLabel": "National League (New Zealand)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "43435",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Thai League",
+      "backendKey": "thai_league",
+      "backendLabel": "Thai League",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "837",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Thai League 2",
+      "backendKey": "thai_league_2",
+      "backendLabel": "Thai League 2",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "836",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CSL (Level 1, China)",
+      "backendKey": "csl",
+      "backendLabel": "CSL (Level 1, China)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "287",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "China League One (Level 2, China)",
+      "backendKey": "china_league_one",
+      "backendLabel": "China League One (Level 2, China)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "286",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "China League Two (Level 3, China)",
+      "backendKey": "china_league_two",
+      "backendLabel": "China League Two (Level 3, China)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "3341",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super League (Malaysia)",
+      "backendKey": "super_league_602",
+      "backendLabel": "Super League (Malaysia)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "602",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "PFL (Philippines)",
+      "backendKey": "pfl",
+      "backendLabel": "PFL (Philippines)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "3327",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Singapore)",
+      "backendKey": "premier_league_767",
+      "backendLabel": "Premier League (Singapore)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "767",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga 1 (Level 1, Indonesia)",
+      "backendKey": "liga_1",
+      "backendLabel": "Liga 1 (Level 1, Indonesia)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "491",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Level 1, Hong Kong)",
+      "backendKey": "premier_league_459",
+      "backendLabel": "Premier League (Level 1, Hong Kong)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "459",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1st Division (Level 2, Hong Kong)",
+      "backendKey": "1st_division_43439",
+      "backendLabel": "1st Division (Hong Kong)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "East Asia & Oceania",
+      "wyscoutId": "43439",
+      "mappingSource": "manual"
+    },
+    {
+      "workbookLabel": "Serie A (Brazil)",
+      "backendKey": "serie_a",
+      "backendLabel": "Serie A (Brazil)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "South America",
+      "wyscoutId": "255",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie B (Brazil)",
+      "backendKey": "serie_b",
+      "backendLabel": "Serie B (Brazil)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "South America",
+      "wyscoutId": "256",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Profesional de F\u00fatbol (Level 1, Argentina)",
+      "backendKey": "liga_profesional_de_f_tbol",
+      "backendLabel": "Liga Profesional de F\u00fatbol (Level 1, Argentina)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "South America",
+      "wyscoutId": "146",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Nacional (Level 2, Argentina)",
+      "backendKey": "primera_nacional",
+      "backendLabel": "Primera Nacional (Level 2, Argentina)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "South America",
+      "wyscoutId": "143",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Prim B Metro (Third Division, Buenos Aires)",
+      "backendKey": "prim_b_metro",
+      "backendLabel": "Prim B Metro (Third Division, Buenos Aires)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "142",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Torneo Federal A (Third Division, not Buenos Aires)",
+      "backendKey": "torneo_federal_a",
+      "backendLabel": "Torneo Federal A (Third Division, not Buenos Aires)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "139",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n (Level 1, Uruguay)",
+      "backendKey": "primera_divisi_n_879",
+      "backendLabel": "Primera Divisi\u00f3n (Level 1, Uruguay)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "South America",
+      "wyscoutId": "879",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Segunda Divisi\u00f3n (Level 2, Uruguay)",
+      "backendKey": "segunda_divisi_n_880",
+      "backendLabel": "Segunda Divisi\u00f3n (Level 2, Uruguay)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "880",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n Amateur (Level 3, Uruguay)",
+      "backendKey": "primera_divisi_n_amateur",
+      "backendLabel": "Primera Divisi\u00f3n Amateur (Level 3, Uruguay)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "South America",
+      "wyscoutId": "43749",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Pro Serie B (Level 2, Ecuador)",
+      "backendKey": "liga_pro_serie_b",
+      "backendLabel": "Liga Pro Serie B (Level 2, Ecuador)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "340",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n (Level 1, Chile)",
+      "backendKey": "primera_divisi_n",
+      "backendLabel": "Primera Divisi\u00f3n (Level 1, Chile)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "South America",
+      "wyscoutId": "284",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera B (Level 2, Chile)",
+      "backendKey": "primera_b",
+      "backendLabel": "Primera B (Level 2, Chile)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "283",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n (Peru)",
+      "backendKey": "primera_divisi_n_688",
+      "backendLabel": "Primera Divisi\u00f3n (Peru)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "South America",
+      "wyscoutId": "688",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "LFPB (Bolivia)",
+      "backendKey": "lfpb",
+      "backendLabel": "LFPB (Bolivia)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "South America",
+      "wyscoutId": "209",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n (Venezuela)",
+      "backendKey": "primera_divisi_n_886",
+      "backendLabel": "Primera Divisi\u00f3n (Venezuela)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "886",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Copa Libertadores",
+      "backendKey": "copa_libertadores",
+      "backendLabel": "Copa Libertadores",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "South America",
+      "wyscoutId": "82",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL Sudamericana",
+      "backendKey": "conmebol_sudamericana",
+      "backendLabel": "CONMEBOL Sudamericana",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "South America",
+      "wyscoutId": "84",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL Copa America",
+      "backendKey": "conmebol_copa_america",
+      "backendLabel": "CONMEBOL Copa America",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "South America",
+      "wyscoutId": "81",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Serie C (Third Division, National)",
+      "backendKey": "serie_c",
+      "backendLabel": "Serie C (Third Division, National)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "South America",
+      "wyscoutId": "257",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista A1 (State League, S\u00e3o Paulo)",
+      "backendKey": "paulista_a1",
+      "backendLabel": "Paulista A1 (State League, S\u00e3o Paulo)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "South America",
+      "wyscoutId": "244",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista A2 (State League, S\u00e3o Paulo)",
+      "backendKey": "paulista_a2",
+      "backendLabel": "Paulista A2 (State League, S\u00e3o Paulo)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "South America",
+      "wyscoutId": "245",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista A3 (State League, S\u00e3o Paulo)",
+      "backendKey": "paulista_a3",
+      "backendLabel": "Paulista A3 (State League, S\u00e3o Paulo)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "South America",
+      "wyscoutId": "246",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista A4 (State League, S\u00e3o Paulo)",
+      "backendKey": "paulista_a4",
+      "backendLabel": "Paulista A4 (State League, S\u00e3o Paulo)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "South America",
+      "wyscoutId": "43759",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Carioca 1 (State League, Rio de Janeiro)",
+      "backendKey": "carioca_1",
+      "backendLabel": "Carioca 1 (State League, Rio de Janeiro)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "South America",
+      "wyscoutId": "223",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Mineiro 1 (State League, Minas Gerais)",
+      "backendKey": "mineiro_1",
+      "backendLabel": "Mineiro 1 (State League, Minas Gerais)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "South America",
+      "wyscoutId": "237",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ga\u00facho 1 (State League, Rio Grande do Sul)",
+      "backendKey": "ga_cho_1",
+      "backendLabel": "Ga\u00facho 1 (State League, Rio Grande do Sul)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "South America",
+      "wyscoutId": "230",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paranaense 1 (State League, Paran\u00e1)",
+      "backendKey": "paranaense_1",
+      "backendLabel": "Paranaense 1 (State League, Paran\u00e1)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "241",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Baiano 1 (State League, Bahia)",
+      "backendKey": "baiano_1",
+      "backendLabel": "Baiano 1 (State League, Bahia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "219",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Pernambucano 1 (State League, Pernambuco)",
+      "backendKey": "pernambucano_1",
+      "backendLabel": "Pernambucano 1 (State League, Pernambuco)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "South America",
+      "wyscoutId": "248",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Goiano 1 (State League, Goi\u00e1s)",
+      "backendKey": "goiano_1",
+      "backendLabel": "Goiano 1 (State League, Goi\u00e1s)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "South America",
+      "wyscoutId": "232",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Cearense 1 (State League, Cear\u00e1)",
+      "backendKey": "cearense_1",
+      "backendLabel": "Cearense 1 (State League, Cear\u00e1)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "South America",
+      "wyscoutId": "227",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Catarinense 1 (State League, Santa Catarina)",
+      "backendKey": "catarinense_1",
+      "backendLabel": "Catarinense 1 (State League, Santa Catarina)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "South America",
+      "wyscoutId": "225",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paraense (State League, Par\u00e1)",
+      "backendKey": "paraense",
+      "backendLabel": "Paraense (State League, Par\u00e1)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "South America",
+      "wyscoutId": "239",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Sergipano (State League, Sergipe)",
+      "backendKey": "sergipano",
+      "backendLabel": "Sergipano (State League, Sergipe)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "South America",
+      "wyscoutId": "254",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Sul-Matogrossense (State League, Mato Grosso do Sul)",
+      "backendKey": "sul_matogrossense",
+      "backendLabel": "Sul-Matogrossense (State League, Mato Grosso do Sul)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "South America",
+      "wyscoutId": "259",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Alagoano Play-Offs (State League, Alagoas)",
+      "backendKey": "alagoano_play_offs",
+      "backendLabel": "Alagoano Play-Offs (State League, Alagoas)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "South America",
+      "wyscoutId": "43399",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "MLS",
+      "backendKey": "mls",
+      "backendLabel": "MLS",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "869",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "USL Championship (Level 2, USA)",
+      "backendKey": "usl_championship",
+      "backendLabel": "USL Championship (Level 2, USA)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "1414",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "USL League 1 (Level 1, USA)",
+      "backendKey": "usl_league_1",
+      "backendLabel": "USL League 1 (Level 1, USA)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "43114",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga MX (Mexico)",
+      "backendKey": "liga_mx",
+      "backendLabel": "Liga MX (Mexico)",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "617",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga de Expansi\u00f3n MX (Level 2, Mexico)",
+      "backendKey": "liga_de_expansi_n_mx",
+      "backendLabel": "Liga de Expansi\u00f3n MX (Level 2, Mexico)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "615",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Nacional (Honduras)",
+      "backendKey": "liga_nacional",
+      "backendLabel": "Liga Nacional (Honduras)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "457",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "LPF (Panama)",
+      "backendKey": "lpf",
+      "backendLabel": "LPF (Panama)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "682",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Jamaica)",
+      "backendKey": "premier_league_531",
+      "backendLabel": "Premier League (Jamaica)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "531",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Canadian Premier League",
+      "backendKey": "canadian_premier_league",
+      "backendLabel": "Canadian Premier League",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "43123",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Division (El Salvador)",
+      "backendKey": "primera_division",
+      "backendLabel": "Primera Division (El Salvador)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "345",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Mayor (Domincan Republic)",
+      "backendKey": "liga_mayor",
+      "backendLabel": "Liga Mayor (Domincan Republic)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "338",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Primera Division (Nicaragua)",
+      "backendKey": "primera_division_652",
+      "backendLabel": "Primera Division (Nicaragua)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "652",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Champions Cup",
+      "backendKey": "concacaf_champions_cup",
+      "backendLabel": "CONCACAF Champions Cup",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "64",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Central American Cup",
+      "backendKey": "concacaf_central_american_cup",
+      "backendLabel": "CONCACAF Central American Cup",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "43541",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Gold Cup",
+      "backendKey": "concacaf_gold_cup",
+      "backendLabel": "CONCACAF Gold Cup",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "65",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Gold Cup Qualification",
+      "backendKey": "concacaf_gold_cup_qualification",
+      "backendLabel": "CONCACAF Gold Cup Qualification",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "1752",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Leagues Cup",
+      "backendKey": "leagues_cup",
+      "backendLabel": "Leagues Cup",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "43133",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Pro League (Level 1, Saudi Arabia)",
+      "backendKey": "pro_league_741",
+      "backendLabel": "Pro League (Level 1, Saudi Arabia)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Division 1 (Level 2, Saudi Arabia)",
+      "backendKey": "division_1",
+      "backendLabel": "Division 1 (Level 2, Saudi Arabia)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Division 2 (Level 3, Saudi Arabia)",
+      "backendKey": "division_2",
+      "backendLabel": "Division 2 (Level 3, Saudi Arabia)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Ligat ha'Al (Level 1, Israel)",
+      "backendKey": "ligat_ha_al",
+      "backendLabel": "Ligat ha'Al (Level 1, Israel)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga Leumit (Level 2, Israel)",
+      "backendKey": "liga_leumit",
+      "backendLabel": "Liga Leumit (Level 2, Israel)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Botola Pro (Morocco)",
+      "backendKey": "botola_pro",
+      "backendLabel": "Botola Pro (Morocco)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "PSL (South Africa)",
+      "backendKey": "psl",
+      "backendLabel": "PSL (South Africa)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premyer Liqa (Level 1, Azerbaijan)",
+      "backendKey": "premyer_liqa",
+      "backendLabel": "Premyer Liqa (Level 1, Azerbaijan)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Birinci Dasta (Level 2, Azerbaijan)",
+      "backendKey": "birinci_dasta",
+      "backendLabel": "Birinci Dasta (Level 2, Azerbaijan)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UAE Pro League",
+      "backendKey": "uae_pro_league",
+      "backendLabel": "UAE Pro League",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Division 1 (Level 2, UAE)",
+      "backendKey": "division_1_862",
+      "backendLabel": "Division 1 (Level 2, UAE)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Second Division (Level 3, UAE)",
+      "backendKey": "second_division",
+      "backendLabel": "Second Division (Level 3, UAE)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Third Division (Level 4, UAE)",
+      "backendKey": "third_division",
+      "backendLabel": "Third Division (Level 4, UAE)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Level 1, Kazakhstan)",
+      "backendKey": "premier_league_546",
+      "backendLabel": "Premier League (Level 1, Kazakhstan)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Division (Level 2, Kazakhstan)",
+      "backendKey": "1_division_544",
+      "backendLabel": "1. Division (Level 2, Kazakhstan)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "2. Division (Level 3, Kazakhstan)",
+      "backendKey": "2_division_43498",
+      "backendLabel": "2. Division (Level 3, Kazakhstan)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Pro League (Jordan)",
+      "backendKey": "pro_league_541",
+      "backendLabel": "Pro League (Jordan)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League (Bahrain)",
+      "backendKey": "premier_league",
+      "backendLabel": "Premier League (Bahrain)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Indian Super League",
+      "backendKey": "indian_super_league",
+      "backendLabel": "Indian Super League",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "I-League (Level 2, India)",
+      "backendKey": "i_league",
+      "backendLabel": "I-League (Level 2, India)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Emir of Kano Cup (Nigeria)",
+      "backendKey": "emir_of_kano_cup",
+      "backendLabel": "Emir of Kano Cup (Nigeria)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Asaba Super Cup (Nigeria)",
+      "backendKey": "asaba_super_cup",
+      "backendLabel": "Asaba Super Cup (Nigeria)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super League (Uzbekistan)",
+      "backendKey": "super_league_883",
+      "backendLabel": "Super League (Uzbekistan)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "FIFA U17 Women's World Cup",
+      "backendKey": "fifa_u17_women_s_world_cup",
+      "backendLabel": "FIFA U17 Women's World Cup",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "20",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "FIFA U20 Women's World Cup",
+      "backendKey": "fifa_u20_women_s_world_cup",
+      "backendLabel": "FIFA U20 Women's World Cup",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "Women's",
+      "wyscoutId": "22",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Women's Championship",
+      "backendKey": "uefa_women_s_championship",
+      "backendLabel": "UEFA Women's Championship",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "118",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U19 Championship Women",
+      "backendKey": "uefa_u19_championship_women",
+      "backendLabel": "UEFA U19 Championship Women",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "115",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U17 Championship Women",
+      "backendKey": "uefa_u17_championship_women",
+      "backendLabel": "UEFA U17 Championship Women",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "113",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL Copa America Femenina",
+      "backendKey": "conmebol_copa_america_femenina",
+      "backendLabel": "CONMEBOL Copa America Femenina",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "91",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL U20 Femenino",
+      "backendKey": "conmebol_u20_femenino",
+      "backendLabel": "CONMEBOL U20 Femenino",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "89",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONMEBOL U17 Femenino",
+      "backendKey": "conmebol_u17_femenino",
+      "backendLabel": "CONMEBOL U17 Femenino",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Women's",
+      "wyscoutId": "87",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Women's U20",
+      "backendKey": "concacaf_women_s_u20",
+      "backendLabel": "CONCACAF Women's U20",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Women's",
+      "wyscoutId": "70",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF Women's U17",
+      "backendKey": "concacaf_women_s_u17",
+      "backendLabel": "CONCACAF Women's U17",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "69",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC U20 Women's Asian Cup",
+      "backendKey": "afc_u20_women_s_asian_cup",
+      "backendLabel": "AFC U20 Women's Asian Cup",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43681",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC U17 Women's Asian Cup",
+      "backendKey": "afc_u17_women_s_asian_cup",
+      "backendLabel": "AFC U17 Women's Asian Cup",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43699",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF W Gold Cup",
+      "backendKey": "concacaf_w_gold_cup",
+      "backendLabel": "CONCACAF W Gold Cup",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43679",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "FIFA Women's WC Qualification (Oceania)",
+      "backendKey": "fifa_women_s_wc_qualification_ofc",
+      "backendLabel": "FIFA Women's WC Qualification (Oceania)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "97",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA Women's Champions League",
+      "backendKey": "uefa_women_s_champions_league",
+      "backendLabel": "UEFA Women's Champions League",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "117",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "AFC Women's Champions League",
+      "backendKey": "afc_women_s_champions_league",
+      "backendLabel": "AFC Women's Champions League",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43359",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "CONCACAF W Champions Cup",
+      "backendKey": "concacaf_w_champions_cup",
+      "backendLabel": "CONCACAF W Champions Cup",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43724",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Copa Libertadores Femenina",
+      "backendKey": "copa_libertadores_femenina",
+      "backendLabel": "Copa Libertadores Femenina",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "83",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NWSL (USA)",
+      "backendKey": "nwsl",
+      "backendLabel": "NWSL (USA)",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "1415",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Barclays Women's Super League (England)",
+      "backendKey": "barclays_women_s_super_league",
+      "backendLabel": "Barclays Women's Super League (England)",
+      "playerScoutingReportPriceCents": 999900,
+      "playerScoutingTier": "Flagship top-market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "368",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Frauen Bundesliga (Germany)",
+      "backendKey": "frauen_bundesliga",
+      "backendLabel": "Frauen Bundesliga (Germany)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "430",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Liga F (Spain)",
+      "backendKey": "liga_f",
+      "backendLabel": "Liga F (Spain)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "799",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "WE League (Japan)",
+      "backendKey": "we_league",
+      "backendLabel": "WE League (Japan)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43337",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Damallsvenskan (Sweden)",
+      "backendKey": "damallsvenskan",
+      "backendLabel": "Damallsvenskan (Sweden)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "809",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Women's Play-offs 1/2 (Sweden)",
+      "backendKey": "women_s_play_offs_1_2_43658",
+      "backendLabel": "Women's Play-offs 1/2 (Sweden)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43658",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Toppserien (Norway)",
+      "backendKey": "toppserien",
+      "backendLabel": "Toppserien (Norway)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "675",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "SWPL 1 (Level 1, Scotland)",
+      "backendKey": "swpl_1",
+      "backendLabel": "SWPL 1 (Level 1, Scotland)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "Women's",
+      "wyscoutId": "755",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "A-League Women (Australia)",
+      "backendKey": "a_league_women",
+      "backendLabel": "A-League Women (Australia)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "164",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Kansallinen Liga (Finland)",
+      "backendKey": "kansallinen_liiga",
+      "backendLabel": "Kansallinen Liga (Finland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "395",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "\u00darvalsdeild Women (Iceland)",
+      "backendKey": "rvalsdeild_women",
+      "backendLabel": "\u00darvalsdeild Women (Iceland)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "481",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Russian Super League",
+      "backendKey": "russian_super_league",
+      "backendLabel": "Russian Super League",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "731",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Superliga Feminina (Romania)",
+      "backendKey": "superliga_feminina",
+      "backendLabel": "Superliga Feminina (Romania)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "717",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Paulista Women (Brazil)",
+      "backendKey": "paulista_women",
+      "backendLabel": "Paulista Women (Brazil)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "243",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Northern Super League (Canada)",
+      "backendKey": "northern_super_league",
+      "backendLabel": "Norther Super League (Canada)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43767",
+      "mappingSource": "manual"
+    },
+    {
+      "workbookLabel": "USL Super League (USA)",
+      "backendKey": "usl_super_league",
+      "backendLabel": "USL Super League (USA)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43710",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1. Division Women (Level 2, Norway)",
+      "backendKey": "1_division_women",
+      "backendLabel": "1. Division Women (Level 2, Norway)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "666",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1a Divis\u00e3o Women (Portugal)",
+      "backendKey": "1a_divis_o_women",
+      "backendLabel": "1a Divis\u00e3o Women (Portugal)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "701",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "National Women's League (New Zealand)",
+      "backendKey": "national_women_s_league",
+      "backendLabel": "National Women's League (New Zealand)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "3159",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premiership Women (Northern Ireland)",
+      "backendKey": "premiership_women",
+      "backendLabel": "Premiership Women (Northern Ireland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "663",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super League (Belgium)",
+      "backendKey": "super_league",
+      "backendLabel": "Super League (Belgium)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "1784",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Elitettan (Level 2, Sweden)",
+      "backendKey": "elitettan",
+      "backendLabel": "Elitettan (Level 2, Sweden)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "811",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "SWPL 2 (Level 2, Scotland)",
+      "backendKey": "swpl_2",
+      "backendLabel": "SWPL 2 (Level 2, Scotland)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "1817",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "3. Division Women (Level 3, Norway)",
+      "backendKey": "3_division_women",
+      "backendLabel": "3. Division Women (Level 3, Norway)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43501",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Premier League Division One Women (England)",
+      "backendKey": "premier_league_division_one_women",
+      "backendLabel": "Premier League Division One Women (England)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "347",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NWSL Challenge Cup (USA)",
+      "backendKey": "nwsl_challenge_cup",
+      "backendLabel": "NWSL Challenge Cup (USA)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43266",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "FA Women's Cup (England)",
+      "backendKey": "fa_women_s_cup",
+      "backendLabel": "FA Women's Cup (England)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "Women's",
+      "wyscoutId": "353",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Women's League Cup (England)",
+      "backendKey": "women_s_league_cup",
+      "backendLabel": "Women's League Cup (England)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "357",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Svenska Cupen Women (Sweden)",
+      "backendKey": "svenska_cupen_women",
+      "backendLabel": "Svenska Cupen Women (Sweden)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "820",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Cupa Rom\u00e2niei Feminin (Romania)",
+      "backendKey": "cupa_rom_niei_feminin",
+      "backendLabel": "Cupa Rom\u00e2niei Feminin (Romania)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "1518",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "SWPL Sky Sports Cup (Scotland)",
+      "backendKey": "swpl_sky_sports_cup",
+      "backendLabel": "SWPL Sky Sports Cup (Scotland)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "756",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "WE League Cup (Japan)",
+      "backendKey": "we_league_cup",
+      "backendLabel": "WE League Cup (Japan)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43615",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Super Cup Women (Portugal)",
+      "backendKey": "super_cup_women",
+      "backendLabel": "Super Cup Women (Portugal)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43018",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Women's Premiership League Cup (New Zealand)",
+      "backendKey": "women_s_premiership_league_cup",
+      "backendLabel": "Women's Premiership League Cup (New Zealand)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43412",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "New South Wales NPL Women (State League, Australia)",
+      "backendKey": "new_south_wales_npl_women",
+      "backendLabel": "New South Wales NPL Women (State League, Australia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43509",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Victoria NPL Women (State League, Australia)",
+      "backendKey": "victoria_npl_women",
+      "backendLabel": "Victoria NPL Women (State League, Australia)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "Women's",
+      "wyscoutId": "1624",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Western Australia NPL Women (State League, Australia)",
+      "backendKey": "western_australia_npl_women",
+      "backendLabel": "Western Australia NPL Women (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43682",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Queensland FQPL 1 Women (State League, Australia)",
+      "backendKey": "queensland_fqpl_1_women",
+      "backendLabel": "Queensland FQPL 1 Women (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43488",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Queensland NPL Women (State League, Australia)",
+      "backendKey": "queensland_npl_women",
+      "backendLabel": "Queensland NPL Women (State League, Australia)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43451",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "Women's Play-offs 1/2 (Norway)",
+      "backendKey": "women_s_play_offs_1_2",
+      "backendLabel": "Women's Play-offs 1/2 (Norway)",
+      "playerScoutingReportPriceCents": 99900,
+      "playerScoutingTier": "Entry / small product",
+      "sourceMarket": "Women's",
+      "wyscoutId": "673",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 College Cup (W)",
+      "backendKey": "ncaa_d1_college_cup_w",
+      "backendLabel": "NCAA D1 College Cup (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43200",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Atlantic Coast (W)",
+      "backendKey": "ncaa_d1_atlantic_coast_w",
+      "backendLabel": "NCAA D1 Atlantic Coast (W)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43231",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 SEC (W)",
+      "backendKey": "ncaa_d1_sec_w",
+      "backendLabel": "NCAA D1 SEC (W)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43251",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big Ten (W)",
+      "backendKey": "ncaa_d1_big_ten_w",
+      "backendLabel": "NCAA D1 Big Ten (W)",
+      "playerScoutingReportPriceCents": 749900,
+      "playerScoutingTier": "Elite pro / high coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43236",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Pacific 12 (W)",
+      "backendKey": "ncaa_d1_pacific_12_w",
+      "backendLabel": "NCAA D1 Pacific 12 (W)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43249",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big 12 (W)",
+      "backendKey": "ncaa_d1_big_12_w",
+      "backendLabel": "NCAA D1 Big 12 (W)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43232",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big East (W)",
+      "backendKey": "ncaa_d1_big_east_w",
+      "backendLabel": "NCAA D1 Big East (W)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43237",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 West Coast (W)",
+      "backendKey": "ncaa_d1_west_coast_w",
+      "backendLabel": "NCAA D1 West Coast (W)",
+      "playerScoutingReportPriceCents": 599900,
+      "playerScoutingTier": "Premium pro market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43257",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Atlantic 10 (W)",
+      "backendKey": "ncaa_d1_atlantic_10_w",
+      "backendLabel": "NCAA D1 Atlantic 10 (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43230",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Mountain West (W)",
+      "backendKey": "ncaa_d1_mountain_west_w",
+      "backendLabel": "NCAA D1 Mountain West (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43246",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 American Athletic (W)",
+      "backendKey": "ncaa_d1_american_athletic_w",
+      "backendLabel": "NCAA D1 American Athletic (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43229",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Missouri Valley (W)",
+      "backendKey": "ncaa_d1_missouri_valley_w",
+      "backendLabel": "NCAA D1 Missouri Valley (W)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43245",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Sun Belt (W)",
+      "backendKey": "ncaa_d1_sun_belt_w",
+      "backendLabel": "NCAA D1 Sun Belt (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43256",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big West (W)",
+      "backendKey": "ncaa_d1_big_west_w",
+      "backendLabel": "NCAA D1 Big West (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43233",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Ivy League (W)",
+      "backendKey": "ncaa_d1_ivy_league_w",
+      "backendLabel": "NCAA D1 Ivy League (W)",
+      "playerScoutingReportPriceCents": 449900,
+      "playerScoutingTier": "Major domestic / selling market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43242",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Mid-American (W)",
+      "backendKey": "ncaa_d1_mid_american_w",
+      "backendLabel": "NCAA D1 Mid-American (W)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43244",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Horizon League (W)",
+      "backendKey": "ncaa_d1_horizon_league_w",
+      "backendLabel": "NCAA D1 Horizon League (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43240",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Patriot League (W)",
+      "backendKey": "ncaa_d1_patriot_league_w",
+      "backendLabel": "NCAA D1 Patriot League (W)",
+      "playerScoutingReportPriceCents": 299900,
+      "playerScoutingTier": "Regional pro / broad coverage",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43250",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Summit League (W)",
+      "backendKey": "ncaa_d1_summit_league_w",
+      "backendLabel": "NCAA D1 Summit League (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43255",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Northeast (W)",
+      "backendKey": "ncaa_d1_northeast_w",
+      "backendLabel": "NCAA D1 Northeast (W)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43247",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Ohio Valley (W)",
+      "backendKey": "ncaa_d1_ohio_valley_w",
+      "backendLabel": "NCAA D1 Ohio Valley (W)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43248",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Southern (W)",
+      "backendKey": "ncaa_d1_southern_w",
+      "backendLabel": "NCAA D1 Southern (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43252",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 America East (W)",
+      "backendKey": "ncaa_d1_america_east_w",
+      "backendLabel": "NCAA D1 America East (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43228",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 ASUN (W)",
+      "backendKey": "ncaa_d1_asun_w",
+      "backendLabel": "NCAA D1 ASUN (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43227",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big South (W)",
+      "backendKey": "ncaa_d1_big_south_w",
+      "backendLabel": "NCAA D1 Big South (W)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43235",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Southland (W)",
+      "backendKey": "ncaa_d1_southland_w",
+      "backendLabel": "NCAA D1 Southland (W)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43253",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Western Athletic (W)",
+      "backendKey": "ncaa_d1_western_athletic_w",
+      "backendLabel": "NCAA D1 Western Athletic (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43258",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Southwestern Athletic (W)",
+      "backendKey": "ncaa_d1_southwestern_athletic_w",
+      "backendLabel": "NCAA D1 Southwestern Athletic (W)",
+      "playerScoutingReportPriceCents": 199900,
+      "playerScoutingTier": "Development / lower pro",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43254",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Big Sky (W)",
+      "backendKey": "ncaa_d1_big_sky_w",
+      "backendLabel": "NCAA D1 Big Sky (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43234",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Conference USA (W)",
+      "backendKey": "ncaa_d1_conference_usa_w",
+      "backendLabel": "NCAA D1 Conference USA (W)",
+      "playerScoutingReportPriceCents": 349900,
+      "playerScoutingTier": "Strong second-tier / pathway",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43239",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Championship (W)",
+      "backendKey": "ncaa_d2_championship_w",
+      "backendLabel": "NCAA D2 Championship (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43649",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Lone Star Conference (W)",
+      "backendKey": "ncaa_d2_lone_star_conference_w",
+      "backendLabel": "NCAA D2 Lone Star Conference (W)",
+      "playerScoutingReportPriceCents": 249900,
+      "playerScoutingTier": "Standard pro / college",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43543",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Conference Carolinas (W)",
+      "backendKey": "ncaa_d2_conference_carolinas_w",
+      "backendLabel": "NCAA D2 Conference Carolinas (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43538",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Empire 8 (W)",
+      "backendKey": "ncaa_d3_empire_8_w",
+      "backendLabel": "NCAA D3 Empire 8 (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43570",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Championship (W)",
+      "backendKey": "naia_championship_w",
+      "backendLabel": "NAIA Championship (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43656",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA The Sun Conference (W)",
+      "backendKey": "naia_the_sun_conference_w",
+      "backendLabel": "NAIA The Sun Conference (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43737",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Crossroads League (W)",
+      "backendKey": "naia_crossroads_league_w",
+      "backendLabel": "NAIA Crossroads League (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43606",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NAIA Non-conference matches (W)",
+      "backendKey": "naia_non_conference_matches_w",
+      "backendLabel": "NAIA Non-conference matches (W)",
+      "playerScoutingReportPriceCents": 149900,
+      "playerScoutingTier": "Lower development market",
+      "sourceMarket": "NCAA (Women)",
+      "wyscoutId": "43563",
+      "mappingSource": "exact"
+    }
+  ],
+  "unresolved": [],
+  "sourceRows": 474,
+  "unresolvedWorkbookRowsFromPriorImport": [
+    {
+      "workbookLabel": "U19 League (Slovakia)",
+      "sourceMarket": "Youth",
+      "wyscoutId": "1530",
+      "teamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry"
+    },
+    {
+      "workbookLabel": "Primeira Liga (Level 1, Portugal)",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "707",
+      "teamAnalysisPriceCents": 59900,
+      "teamAnalysisTier": "Strong pro"
+    },
+    {
+      "workbookLabel": "First League (North Macedonia)",
+      "sourceMarket": "Southern Europe",
+      "wyscoutId": "591",
+      "teamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth"
+    },
+    {
+      "workbookLabel": "UEFA European Championship Qualifiers",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "102",
+      "teamAnalysisPriceCents": 44900,
+      "teamAnalysisTier": "High-interest"
+    },
+    {
+      "workbookLabel": "Premier Division (Level 1, Ireland)",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "499",
+      "teamAnalysisPriceCents": 34900,
+      "teamAnalysisTier": "Standard+"
+    },
+    {
+      "workbookLabel": "First Division (Level 2, Ireland)",
+      "sourceMarket": "Western Europe",
+      "wyscoutId": "503",
+      "teamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth"
+    },
+    {
+      "workbookLabel": "Liga Pro (Level 1, Ecuador)",
+      "sourceMarket": "South America",
+      "wyscoutId": "339",
+      "teamAnalysisPriceCents": 44900,
+      "teamAnalysisTier": "High-interest"
+    },
+    {
+      "workbookLabel": "Primera Divisi\u00f3n (Costa Rica)",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "301",
+      "teamAnalysisPriceCents": 39900,
+      "teamAnalysisTier": "Mid pro"
+    },
+    {
+      "workbookLabel": "Liga Nacional (Guatemala)",
+      "sourceMarket": "Concacaf",
+      "wyscoutId": "451",
+      "teamAnalysisPriceCents": 29900,
+      "teamAnalysisTier": "Standard"
+    },
+    {
+      "workbookLabel": "Premier League (Bangladesh)",
+      "sourceMarket": "Middle East, Africa, India",
+      "wyscoutId": "",
+      "teamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth"
+    },
+    {
+      "workbookLabel": "Women's Premier League (Ireland)",
+      "sourceMarket": "Women's",
+      "wyscoutId": "504",
+      "teamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth"
+    },
+    {
+      "workbookLabel": "FAI Women's Cup (Ireland)",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43276",
+      "teamAnalysisPriceCents": 14900,
+      "teamAnalysisTier": "Micro / low-data"
+    },
+    {
+      "workbookLabel": "Women's Presidents Cup (Ireland)",
+      "sourceMarket": "Women's",
+      "wyscoutId": "43465",
+      "teamAnalysisPriceCents": 14900,
+      "teamAnalysisTier": "Micro / low-data"
+    },
+    {
+      "workbookLabel": "Play-offs 1/2 (Ireland)",
+      "sourceMarket": "Women's",
+      "wyscoutId": "501",
+      "teamAnalysisPriceCents": 14900,
+      "teamAnalysisTier": "Micro / low-data"
+    }
+  ],
+  "unpricedBackendKeysSkippedFromPriorImport": [
+    {
+      "workbookLabel": "Premier League (Wales)",
+      "backendKey": "premier_league_893",
+      "backendLabel": "Premier League (Wales)",
+      "teamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth"
+    }
+  ],
+  "duplicateBackendKeysIgnoredFromPriorImport": [
+    {
+      "workbookLabel": "IDBank Premier League (Level 1, Armenia)",
+      "backendKey": "idbank_premier_league",
+      "backendLabel": "IDBank Premier League (Level 1, Armenia)",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "UEFA U17 Championship Women",
+      "backendKey": "uefa_u17_championship_women",
+      "backendLabel": "UEFA U17 Championship Women",
+      "keptTeamAnalysisPriceCents": 34900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "1st Division (Hong Kong)",
+      "backendKey": "1st_division_43439",
+      "backendLabel": "1st Division (Hong Kong)",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Coastal Athletic Association",
+      "backendKey": "ncaa_d1_coastal_athletic_association",
+      "backendLabel": "NCAA D1 Coastal Athletic Association",
+      "keptTeamAnalysisPriceCents": 34900,
+      "ignoredTeamAnalysisPriceCents": 34900,
+      "teamAnalysisTier": "Standard+",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D1 Non-conference matches",
+      "backendKey": "ncaa_d1_non_conference_matches",
+      "backendLabel": "NCAA D1 Non-conference matches",
+      "keptTeamAnalysisPriceCents": 44900,
+      "ignoredTeamAnalysisPriceCents": 44900,
+      "teamAnalysisTier": "High-interest",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Sunshine State Conference",
+      "backendKey": "ncaa_d2_sunshine_state_conference",
+      "backendLabel": "NCAA D2 Sunshine State Conference",
+      "keptTeamAnalysisPriceCents": 29900,
+      "ignoredTeamAnalysisPriceCents": 29900,
+      "teamAnalysisTier": "Standard",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 South Atlantic Conference",
+      "backendKey": "ncaa_d2_south_atlantic_conference",
+      "backendLabel": "NCAA D2 South Atlantic Conference",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Northeast-10 Conference",
+      "backendKey": "ncaa_d2_northeast_10_conference",
+      "backendLabel": "NCAA D2 Northeast-10 Conference",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Peach Belt Conference",
+      "backendKey": "ncaa_d2_peach_belt_conference",
+      "backendLabel": "NCAA D2 Peach Belt Conference",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Great American Conference",
+      "backendKey": "ncaa_d2_great_american_conference",
+      "backendLabel": "NCAA D2 Great American Conference",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Mountain East Conference",
+      "backendKey": "ncaa_d2_mountain_east_conference",
+      "backendLabel": "NCAA D2 Mountain East Conference",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Pacific West Conference",
+      "backendKey": "ncaa_d2_pacific_west_conference",
+      "backendLabel": "NCAA D2 Pacific West Conference",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D2 Non-conference matches",
+      "backendKey": "ncaa_d2_non_conference_matches",
+      "backendLabel": "NCAA D2 Non-conference matches",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 University Athletic Association",
+      "backendKey": "ncaa_d3_university_athletic_association",
+      "backendLabel": "NCAA D3 University Athletic Association",
+      "keptTeamAnalysisPriceCents": 24900,
+      "ignoredTeamAnalysisPriceCents": 24900,
+      "teamAnalysisTier": "Lower pro / youth",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Centennial Conference",
+      "backendKey": "ncaa_d3_centennial_conference",
+      "backendLabel": "NCAA D3 Centennial Conference",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 North Atlantic Conference",
+      "backendKey": "ncaa_d3_north_atlantic_conference",
+      "backendLabel": "NCAA D3 North Atlantic Conference",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    },
+    {
+      "workbookLabel": "NCAA D3 Non-conference matches",
+      "backendKey": "ncaa_d3_non_conference_matches",
+      "backendLabel": "NCAA D3 Non-conference matches",
+      "keptTeamAnalysisPriceCents": 19900,
+      "ignoredTeamAnalysisPriceCents": 19900,
+      "teamAnalysisTier": "Entry",
+      "mappingSource": "exact"
+    }
+  ]
+}

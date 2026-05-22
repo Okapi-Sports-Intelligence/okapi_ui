@@ -1,0 +1,45 @@
+{
+  "currency": "usd",
+  "tiers": {
+    "insignificant": {
+      "label": "$19",
+      "unitAmountCents": 1900
+    },
+    "obscure": {
+      "label": "$29",
+      "unitAmountCents": 2900
+    },
+    "p39": {
+      "label": "$39",
+      "unitAmountCents": 3900
+    },
+    "p49": {
+      "label": "$49",
+      "unitAmountCents": 4900
+    },
+    "p59": {
+      "label": "$59",
+      "unitAmountCents": 5900
+    },
+    "standard": {
+      "label": "$69",
+      "unitAmountCents": 6900
+    },
+    "important": {
+      "label": "$79",
+      "unitAmountCents": 7900
+    },
+    "reputable": {
+      "label": "$99",
+      "unitAmountCents": 9900
+    },
+    "quality": {
+      "label": "$129",
+      "unitAmountCents": 12900
+    },
+    "elite": {
+      "label": "$149",
+      "unitAmountCents": 14900
+    }
+  }
+}
