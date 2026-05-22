@@ -1,11 +1,11 @@
 import "server-only";
 
 import { readFile } from "node:fs/promises";
-import { join } from "node:path";
 
+import { getOrdersFilePath } from "@/lib/orders/order-file-path";
 import type { Order } from "@/lib/orders/types";
 
-const ordersFilePath = join(process.cwd(), ".data", "orders.json");
+const ordersFilePath = getOrdersFilePath();
 
 async function readOrders(): Promise<Order[]> {
   try {

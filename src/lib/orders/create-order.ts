@@ -2,8 +2,9 @@ import "server-only";
 
 import { randomUUID } from "node:crypto";
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-import { dirname, join } from "node:path";
+import { dirname } from "node:path";
 
+import { getOrdersFilePath } from "@/lib/orders/order-file-path";
 import type {
   CreateOrderInput,
   Order,
@@ -11,7 +12,7 @@ import type {
   PublicOrder,
 } from "@/lib/orders/types";
 
-const ordersFilePath = join(process.cwd(), ".data", "orders.json");
+const ordersFilePath = getOrdersFilePath();
 
 let writeQueue = Promise.resolve();
 
